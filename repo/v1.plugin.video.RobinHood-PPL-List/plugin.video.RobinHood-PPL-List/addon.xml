@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.RobinHood-PPL-List" name="plugin.video.RobinHood-PPL-List" provider-name="Husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">RobinHood-PPL-List - downloaded for free from:
+http://husham.com</summary>
+    <description lang="en">RobinHood-PPL-List - downloaded for free from:
+http://husham.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>

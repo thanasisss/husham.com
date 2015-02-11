@@ -1,0 +1,19 @@
+
+
+!!!!!!! HOLLANDA IPTV KANALLARI !!!!!!!
+‪#‎EXTINF‬:-1,OKAYWEBTV@RTL Tele Letzebourg-Lüksemburg
+rtmp://wowza01.newmedia.lu/channel1/live
+#EXTINF:-1,OKAYWEBTV@1hijau TV-Malezya
+rtmp://119.110.96.71/live/1htv
+#EXTINF:-1,OKAYWEBTV@AC tv-Hollanda
+http://www.xs4all.nl/~psi/vgellekom.wmv
+#EXTINF:-1,OKAYWEBTV@AT 5-Hollanda
+rtsp://82.94.228.213:1935/broadcast/_definst_/stream1
+#EXTINF:-1,OKAYWEBTV@Maharishi Channel 3-Hollanda
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1,OKAYWEBTV@RTLZ-Hollanda
+mmsh://rtlztv.rtl.nl/rtlzbroad
+#EXTINF:-1,OKAYWEBTV@Salto 1 TV-Hollanda
+mms://195.169.148.57/A1
+#EXTINF:-1,OKAYWEBTV@Salto 2 TV-Hollanda
+mms://195.169.148.57/A2

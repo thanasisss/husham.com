@@ -1,0 +1,100 @@
+#EXTM3U
+
+
+
+#EXTINF:0,Bein Sports 1 FR
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/31.ch
+#EXTINF:0,Bein Sports 2 FR
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/36.ch
+#EXTINF:0,Bein Sports 3 FR
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/32.ch
+#EXTINF:0,Bein Sports 1HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/58.ch
+#EXTINF:0,Bein Sports 2HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/59.ch
+#EXTINF:0,Bein Sports 3HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/60.ch
+#EXTINF:0,Bein Sports 4HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/61.ch
+#EXTINF:0,Bein Sports 5HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/62.ch
+#EXTINF:0,Bein Sports 6HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/16.ch
+#EXTINF:0,Bein Sports 7HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/17.ch
+#EXTINF:0,Bein Sports 8HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/18.ch
+#EXTINF:0,Bein Sports 9HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/19.ch
+#EXTINF:0,Bein Sports 10HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/20.ch
+#EXTINF:0,Bein Sports 11HD
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/21.ch
+#EXTINF:0,SkySport 1
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/1.ch
+#EXTINF:0,SkySport 1 (Backup)
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/140.ch
+#EXTINF:0,SkySport 2
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/2.ch
+#EXTINF:0,SkySport 2 (Backup)
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/141.ch
+#EXTINF:0,SkySport 3
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/3.ch
+#EXTINF:0,SkySport 3 (Backup)
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/142.ch
+#EXTINF:0,SkySport 4
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/4.ch
+#EXTINF:0,SkySport 4 (Backup)
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/143.ch
+#EXTINF:0,SkySport 5
+http://5.39.70.216/10$permonthIPTV/sports@fontsbay.com/5.ch
+
+
+
+
+#EXTINF:0,Bein sports 1
+rtmp://213.136.71.43:1935/live/beinsports1?Sport.HD
+MGM HD 
+http://109.95.47.242:7088/udp/239.0.0.104:4000
+HD Sport
+http://109.95.47.242:7088/udp/239.0.0.117:4000
+HD Life
+http://109.95.47.242:7088/udp/239.0.0.118:4000
+Discovery HD Showcase (EN)
+http://109.95.47.242:7088/udp/239.0.0.119:4000
+Mezzo HD
+http://109.95.47.242:7088/udp/239.0.0.124:4000
+3D
+http://109.95.47.242:7088/udp/239.0.0.125:4000
+Nickelodeon HD (EN)
+http://109.95.47.242:7088/udp/239.0.0.128:4000
+Anima Planet HD (EN)
+http://109.95.47.242:7088/udp/239.0.0.129:4000
+futbol
+http://109.95.47.242:7088/udp/239.0.0.93:4000
+Tenis
+http://109.95.47.242:7088/udp/239.0.0.94:4000
+baloncesto
+http://109.95.47.242:7088/udp/239.0.0.95:4000
+Futbol2
+http://109.95.47.242:7088/udp/239.0.0.96:4000
+#more stream
+https://www.facebook.com/iptvi
+national soccer
+http://109.95.47.242:7088/udp/239.0.0.97:4000
+Sport Plus
+http://109.95.47.242:7088/udp/239.0.0.99:4000
+Smart sport HD
+http://88.150.152.188:8080/
+:-1, Sky Sports 1
+http://178.33.24.14:2222/
+:-1, Sky Sports 2
+http://178.33.24.14:2223/
+:-1, Sky Sports 3
+http://178.33.24.14:2224/
+:-1, Sky Sports 4
+http://178.33.24.14:2225/
+#EXTINF:0,Silk Sport 2 HD ge
+http://80.77.52.6:4444/udp/230.0.6.2:12345
+#EXTINF:0,Silk Sport 1 HD ge
+http://80.77.52.6:4444/udp/230.0.6.4:12345

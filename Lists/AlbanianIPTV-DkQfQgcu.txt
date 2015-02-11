@@ -1,0 +1,212 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 20/01/2015 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+ 
+#EXTINF:-1, [COLOR green] --Albanian IPTV only--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1,Top Channel
+http://sat01:sat@5.189.131.126:8000/1.ch Top Channel
+#EXTINF:-1,TV Klan HD
+http://sat01:sat@5.189.131.126:8000/2.ch TV Klan HD
+#EXTINF:-1,Vizion Plus
+http://sat01:sat@5.189.131.126:8000/3.ch Vizion Plus
+#EXTINF:-1,Tring super
+http://sat01:sat@5.189.131.126:8000/4.ch Tring super
+#EXTINF:-1,Tring max
+http://sat01:sat@5.189.131.126:8000/5.ch Tring max
+#EXTINF:-1,Tring Life
+http://sat01:sat@5.189.131.126:8000/6.ch Tring Life
+#EXTINF:-1,Tring Tring
+http://sat01:sat@5.189.131.126:8000/7.ch Tring Tring
+#EXTINF:-1,Tring Living
+http://sat01:sat@5.189.131.126:8000/8.ch Tring Living
+#EXTINF:-1,Tring Smile
+http://sat01:sat@5.189.131.126:8000/9.ch Tring Smile
+#EXTINF:-1,Tring World
+http://sat01:sat@5.189.131.126:8000/10.ch Tring World
+#EXTINF:-1,Tip Tv
+http://sat01:sat@5.189.131.126:8000/11.ch Tip Tv
+#EXTINF:-1,Alsat m
+http://sat01:sat@5.189.131.126:8000/12.ch Alsat m
+#EXTINF:-1,sky comedi
+http://sat01:sat@5.189.131.126:8000/13.ch sky comedi
+#EXTINF:-1,sky aksion
+http://sat01:sat@5.189.131.126:8000/14.ch sky aksion
+#EXTINF:-1,sky planet
+http://sat01:sat@5.189.131.126:8000/15.ch sky planet
+#EXTINF:-1,MKTV2
+http://sat01:sat@5.189.131.126:8000/16.ch MKTV2
+#EXTINF:-1,TV Kopliku
+http://sat01:sat@5.189.131.126:8000/17.ch TV Kopliku
+#EXTINF:-1,test
+http://sat01:sat@5.189.131.126:8000/18.ch test
+#EXTINF:-1,Arena Sport 1
+http://sat01:sat@5.189.131.126:8000/19.ch Arena Sport 1
+#EXTINF:-1,Arena Sport 2
+http://sat01:sat@5.189.131.126:8000/20.ch Arena Sport 2
+#EXTINF:-1,Arena Sport 3
+http://sat01:sat@5.189.131.126:8000/21.ch Arena Sport 3
+#EXTINF:-1,Arena Sport 4
+http://sat01:sat@5.189.131.126:8000/22.ch Arena Sport 4
+#EXTINF:-1,Arena Sport 5
+http://sat01:sat@5.189.131.126:8000/23.ch Arena Sport 5
+#EXTINF:-1,Bain Sport 1
+http://sat01:sat@5.189.131.126:8000/24.ch Bain Sport 1
+#EXTINF:-1,Bain Sport 2
+http://sat01:sat@5.189.131.126:8000/25.ch Bain Sport 2
+#EXTINF:-1,Mad GR
+http://sat01:sat@5.189.131.126:8000/26.ch Mad GR
+#EXTINF:-1,FOX SPORTS 2 
+http://sat01:sat@5.189.131.126:8000/27.ch FOX SPORTS 2 
+#EXTINF:-1,Lig Tv
+http://sat01:sat@5.189.131.126:8000/28.ch Lig Tv
+#EXTINF:-1,Klan Kosova
+http://sat01:sat@5.189.131.126:8000/29.ch Klan Kosova
+#EXTINF:-1,Supersport 1
+http://sat01:sat@5.189.131.126:8000/30.ch Supersport 1
+#EXTINF:-1,Supersport 2
+http://sat01:sat@5.189.131.126:8000/31.ch Supersport 2
+#EXTINF:-1,Supersport 3
+http://sat01:sat@5.189.131.126:8000/32.ch Supersport 3
+#EXTINF:-1,C More Sport
+http://sat01:sat@5.189.131.126:8000/33.ch C More Sport
+#EXTINF:-1,C More Hits
+http://sat01:sat@5.189.131.126:8000/34.ch C More Hits
+#EXTINF:-1,C More Series
+http://sat01:sat@5.189.131.126:8000/35.ch C More Series
+#EXTINF:-1,Comedy Central
+http://sat01:sat@5.189.131.126:8000/36.ch Comedy Central
+#EXTINF:-1,C More First
+http://sat01:sat@5.189.131.126:8000/37.ch C More First
+#EXTINF:-1,C More Emotion
+http://sat01:sat@5.189.131.126:8000/38.ch C More Emotion
+
+#EXTINF:-1,Arena Sport 1
+
+http://root:1234@91.205.174.90:8000/15.ch
+
+#EXTINF:-1,Arena Sport 3
+
+http://root:1234@91.205.174.90:8000/28.ch
+
+#EXTINF:-1,Arena Sport 4
+
+http://root:1234@91.205.174.90:8000/19.ch
+
+#EXTINF:-1,Film Nje HD
+
+http://root:1234@91.205.174.90:8000/1.ch
+
+#EXTINF:-1,Tring World
+
+http://root:1234@91.205.174.90:8000/2.ch
+
+#EXTINF:-1,Klan HD
+
+http://root:1234@91.205.174.90:8000/3.ch
+
+#EXTINF:-1,Tring Tring
+
+http://root:1234@91.205.174.90:8000/4.ch
+
+#EXTINF:-1,Living HD
+
+http://root:1234@91.205.174.90:8000/5.ch
+
+#EXTINF:-1,A1
+
+http://root:1234@91.205.174.90:8000/6.ch
+
+#EXTINF:-1,Supersport 4 HD
+
+http://root:1234@91.205.174.90:8000/7.ch
+
+#EXTINF:-1,Supersport 3 HD
+
+http://root:1234@91.205.174.90:8000/8.ch
+
+#EXTINF:-1,Supersport 2 HD
+
+http://root:1234@91.205.174.90:8000/9.ch
+
+#EXTINF:-1,Supersport 1 HD
+
+http://root:1234@91.205.174.90:8000/10.ch
+
+#EXTINF:-1,Exp Natyra
+
+http://root:1234@91.205.174.90:8000/11.ch
+
+#EXTINF:-1,Exp Natyra
+
+http://root:1234@91.205.174.90:8000/12.ch
+
+#EXTINF:-1,Exp Shkence
+
+http://root:1234@91.205.174.90:8000/13.ch
+
+#EXTINF:-1,Film Aksion
+
+http://root:1234@91.205.174.90:8000/14.ch
+
+#EXTINF:-1,Folkorit
+
+http://root:1234@91.205.174.90:8000/16.ch
+
+#EXTINF:-1,Film Komedy
+
+http://root:1234@91.205.174.90:8000/17.ch
+
+#EXTINF:-1,21 HD
+
+http://root:1234@91.205.174.90:8000/18.ch
+
+#EXTINF:-1,Film Drame
+
+http://root:1234@91.205.174.90:8000/20.ch
+
+#EXTINF:-1,S Folk
+
+http://root:1234@91.205.174.90:8000/21.ch
+
+#EXTINF:-1,STV
+
+http://root:1234@91.205.174.90:8000/22.ch
+
+#EXTINF:-1,TVSH
+
+http://root:1234@91.205.174.90:8000/23.ch
+
+#EXTINF:-1,AS
+
+http://root:1234@91.205.174.90:8000/24.ch
+
+#EXTINF:-1,Top Channel
+
+http://root:1234@91.205.174.90:8000/25.ch
+
+#EXTINF:-1,Klan HD
+
+http://root:1234@91.205.174.90:8000/26.ch
+
+#EXTINF:-1,Cufo
+
+http://root:1234@91.205.174.90:8000/27.ch
+
+#EXTINF:-1,Film Thriller
+
+http://root:1234@91.205.174.90:8000/29.ch
+
+#EXTINF:-1,KKosova
+
+http://root:1234@91.205.174.90:8000/30.ch
+
+#EXTINF:-1,Film Dy HD
+
+http://root:1234@91.205.174.90:8000/31.ch
+
+#EXTINF:-1,Film+1
+
+http://root:1234@91.205.174.90:8000/32.ch

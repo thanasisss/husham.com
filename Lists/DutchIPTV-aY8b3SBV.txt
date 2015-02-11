@@ -1,0 +1,369 @@
+‪#‎EXTM3U‬
+#EXTINF:-1, [COLOR yellow]Updated 23/12/14 @ 17:50 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+EXTINF:-1, [COLOR green] --Dutch Live Tv--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1,3sat
+http://87.104.131.92:4022/udp/233.138.48.12:5501?auth=yes?
+#EXTINF:-1,3sat m3u8 1024*576
+http://pebbles112-lh.akamaihd.net/i/3…/index_1300_av-p.m3u8…
+#EXTINF:-1,ALEX-BERLIN 568*320
+http://alex-stream.rosebud-media.de:1935/…/a…/hasbahca.m3u8…
+#EXTINF:-1,ARD
+http://87.104.131.92:4022/udp/233.138.48.1:5501?auth=yes?
+#EXTINF:-1,arte
+http://87.104.131.92:4022/udp/233.138.48.10:5501?auth=yes?
+#EXTINF:-1,arte de m3u8 1024*576
+http://pebbles107-lh.akamaihd.net/i/a…/index_1300_av-p.m3u8…
+#EXTINF:-1,atv m3u8 1024*576
+http://pebbles114-lh.akamaihd.net/i/a…/index_1300_av-p.m3u8…
+#EXTINF:-1,Augsburg TV ***laufft mit enigma2
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/ playpath=augsburgtv.stream_2 swfUrl=http://flowcenter2.flowworks.de/…/jwplay…/jwplayer.flash.swf pageUrl=http://www.augsburg.tv/w…/embed/livestream-augsburg_tv.html…
+#EXTINF:-1,AUSTRIA 24 TV
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1,BADEN TV
+rtmp://$OPT:rtmp-raw=rtmp://badentv-stream2.siebnich.info/rtplive/ playpath=btv.stream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/3639.html
+#EXTINF:-1,bbcworld m3u8 1024*576
+http://pebbles105-lh.akamaihd.net/i/b…/index_1300_av-p.m3u8…
+#EXTINF:-1,BLK Regional TV
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live/ playpath=BLKonline_high swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/blk-regional-tv.html
+#EXTINF:-1,br3 m3u8 1024*576
+http://pebbles107-lh.akamaihd.net/i/b…/index_1300_av-p.m3u8…
+#EXTINF:-1,Center TV Düsseldorf
+rtsp://80.246.121.90/ctv
+#EXTINF:-1,Center TV Köln
+rtmp://$OPT:rtmp-raw=rtmp://x3282azmedc12001.f.l.f.lb.core-cdn.net/12001centertvkoeln/ playpath=live/3282azmedia/live_de_500 swf
+#EXTINF:-1,DAF
+rtmp://$OPT:rtmp-raw=rtmp://fms.daf.tmt.de/live/ playpath=dafstream100 swfUrl=http://partner.anleger-fernsehen.de/…/ex…/jwplayer.flash.swf live=1 pageUrl=http://partner.anleger-fernsehen.de/
+#EXTINF:-1,Das Erste
+http://87.104.131.92:4022/udp/233.138.48.9:5501?auth=yes?
+#EXTINF:-1,das erste m3u8 1024*576
+http://pebbles112-lh.akamaihd.net/i/d…/index_1300_av-p.m3u8…
+#EXTINF:-1,DAS NEUE TV ***laufft mit enigma2
+rtmp://83.169.58.36/live/ playpath=DasneueTV swfUrl=http://www.hd-livestream.de/Player6/jwplayer.flash.swf live=1 pageUrl=http://www.dasneue.tv/
+#EXTINF:-1,Deluxe Music TV
+rtmp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream
+#EXTINF:-1,DELUXE MUSIC TV 720*406
+http://flash.cdn.deluxemusic.tv/…/web_850.st…/hasbahca.m3u8…
+#EXTINF:-1,dmax m3u8 1024*576
+http://pebbles104-lh.akamaihd.net/i/d…/index_1300_av-p.m3u8…
+#EXTINF:-1,Donau TV ***laufft mit enigma2
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/…/jwplay…/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/w…/embed/donau-tv-livestream.html…
+#EXTINF:-1,Dresden Fernsehen
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:-1,ELBEKANAL
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=elbe_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_7.html
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/…/eur…/14-live.m3u8
+#EXTINF:-1,eurosport de m3u8 1024*576
+http://pebbles105-lh.akamaihd.net/i/e…/index_1300_av-p.m3u8…
+#EXTINF:-1,Family TV ***laufft mit enigma2
+rtmp://83.169.58.36/live/ playpath=Stream3 swfUrl=http://www.hd-livestream.de/Player6/jwplayer.flash.swf pageUrl=http://www.familytv.de/
+#EXTINF:-1,FILSTALWELLE
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:-1,flitelevel tv AU
+rtmp://streaming.krautzer-lynn.com:1935/live/Stream4
+#EXTINF:-1,HALLE TV
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=tvhalle_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_1.html
+#EXTINF:-1,HSE24 640*360
+http://c17001-l.z.core.cdn.streamfarm.net/…/chunklist-b500.…
+#EXTINF:-1,HSE24 EXTRA
+http://c17001-l.z.core.cdn.streamfarm.net/…/chunklist-b500.…
+#EXTINF:-1,Jazz TV
+http://149.11.34.78:1935/live/jazztv.stream/hasbahca.m3u8
+#EXTINF:-1,JUWELO TV
+rtmp://85.214.72.27/juwelo_hd/live_DE1
+#EXTINF:-1,kabel eins
+http://87.104.131.92:4022/udp/233.138.48.28:5501?auth=yes?
+#EXTINF:-1,kabel1 m3u8 1024*576
+http://pebbles105-lh.akamaihd.net/i/k…/index_1300_av-p.m3u8…
+#EXTINF:-1,KIEL TV
+rtmp://$OPT:rtmp-raw=rtmp://stream.oksh.de/live/okkiel/ playpath=kieltv swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/kiel-tv.html
+#EXTINF:-1,kika m3u8 1024*576
+http://pebbles113-lh.akamaihd.net/i/k…/index_1300_av-p.m3u8…
+#EXTINF:-1,Light Channel TV Deutschland
+rtmp://$OPT:rtmp-raw=rtmp://streamer1.streamhost.org/salive/ playpath=lctvde swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/light-channel-tv-deutschland.html
+#EXTINF:-1,LT - TV Baden Wuerttemberg
+rtmp://62.113.210.105/ltv-live/livestream
+#EXTINF:-1,MDF.1 720*576
+http://62.113.210.250/medienasa-live/mdf1_high/hasbahca.m3u8
+#EXTINF:-1,MDR plus ***laufft mit enigma2
+rtmp://mdr-tv-event1livefs.fplive.net:1935/mdr-tv-event1live-live playpath=stream_livetvmdrevent1_de_576 swfUrl=http://www.mdr.de/resources/flash/mdr_av_player.swf pageUrl=http://www.mdr.de/…/l…/fernsehen/livestream-mdr-plus100.html live=1
+#EXTINF:-1,MTV Music 24
+http://87.104.131.92:4022/udp/233.138.48.15:5501?auth=yes?
+#EXTINF:-1,muenchen tv 1000kb/s
+http://muenchentv.iptv-playoutcenter.de:1935/…/hasbahca.m3u8
+#EXTINF:-1,n24 m3u8 1024*576
+http://pebbles104-lh.akamaihd.net/i/n…/index_1300_av-p.m3u8…
+#EXTINF:-1,NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs…/index_1664_av-p.m3u8…
+#EXTINF:-1,nickcc m3u8 1024*576
+http://pebbles105-lh.akamaihd.net/i/n…/index_1300_av-p.m3u8…
+#EXTINF:-1,NOA4 Hamburg (HQ) mmsh
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+#EXTINF:-1,NOA4 Norderstedt (HQ) mmsh
+mmsh://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+#EXTINF:-1,ntv m3u8 1024*576
+http://pebbles104-lh.akamaihd.net/i/n…/index_1300_av-p.m3u8…
+#EXTINF:-1,ok-dessau
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=ok-dessau_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_1.html
+#EXTINF:-1,ok-magdeburg
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=ok-magdeburg_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_2.html
+#EXTINF:-1,ok-merseburg
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=ok-merseburg_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_4.html
+#EXTINF:-1,ok-salzwedel
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250:80/medienasa-live playpath=ok-salzwedel_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_6.html
+#EXTINF:-1,ok-stendal
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=ok-stendal_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_5.html
+#EXTINF:-1,ok-wernigerode
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=ok-wernigerode_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_7.html
+#EXTINF:-1,orf1 m3u8 1024*576
+http://pebbles113-lh.akamaihd.net/i/o…/index_1300_av-p.m3u8…
+#EXTINF:-1,orf2 m3u8 1024*576
+http://pebbles113-lh.akamaihd.net/i/o…/index_1300_av-p.m3u8…
+#EXTINF:-1,Parlamentsfernsehen1 ***laufft mit enigma2
+rtmp://x3777parlac13014.f.l.f.lb.core-cdn.net:1935/13014bundestag playpath=live/3777parlamentsfernsehen/live_1000 swfUrl=http://webtv.bundestag.de/iptv/swf/xflv/showIt3_10.swf pageUrl=http://www.bundestag.de/Mediathek/index.jsp?action=tv live=1
+#EXTINF:-1,Parlamentsfernsehen2 ***laufft mit enigma2
+rtmp://x4177pfs2c13014.f.l.f.lb.core-cdn.net:1935/13014bundestag playpath=live/4177pf_s2/live_de_1000 swfUrl=http://webtv.bundestag.de/iptv/swf/xflv/showIt3_10.swf pageUrl=http://www.bundestag.de/Mediathek/index.jsp?action=tv live=1
+#EXTINF:-1,phoenix m3u8 1024*576
+http://pebbles111-lh.akamaihd.net/i/p…/index_1300_av-p.m3u8…
+#EXTINF:-1,pro7 m3u8 1024*576
+http://pebbles106-lh.akamaihd.net/i/p…/index_1300_av-p.m3u8…
+#EXTINF:-1,ProSieben
+http://87.104.131.92:4022/udp/233.138.48.30:5501?auth=yes?
+#EXTINF:-1,PUNKTum 720*576
+http://62.113.210.250/medienasa-…/punktum_high/hasbahca.m3u8
+#EXTINF:-1,RAN 1 Dessau
+rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:-1,RBW 720*576
+http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8
+#EXTINF:-1,RFH
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=RFH_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_3.html
+#EXTINF:-1,RheinMain TV
+rtmp://$OPT:rtmp-raw=rtmp://217.23.11.44/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/rheinmain-tv.html
+#EXTINF:-1,rtl m3u8 1024*576
+http://pebbles106-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,RTL Television
+http://87.104.131.92:4022/udp/233.138.48.20:5501?auth=yes?
+#EXTINF:-1,RTL2
+http://87.104.131.92:4022/udp/233.138.48.19:5501?auth=yes?
+#EXTINF:-1,rtl2 m3u8 1024*576
+http://pebbles107-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,rtl9 m3u8 1024*576
+http://pebbles102-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,rtlnitro m3u8 1024*576
+http://pebbles106-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,SAT.1
+http://87.104.131.92:4022/udp/233.138.48.31:5501?auth=yes?
+#EXTINF:-1,sat1 m3u8 1024*576
+http://pebbles107-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,servus m3u8 1024*576
+http://pebbles114-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,Shop 24 Direct
+rtmp://$OPT:rtmp-raw=rtmp://tv.ipstreaming.de/stapaOEi// playpath=stapaOEi.stream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/shop-24-direct.html
+#EXTINF:-1,sixx m3u8 1024*576
+http://pebbles107-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,SONNENKLAR
+rtmp://$OPT:rtmp-raw=rtmp://euvia500livefs.fplive.net/euvia500live-live playpath=stream60324 swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.sonnenklar.tv/live-angebote.html
+#EXTINF:-1,sport1 m3u8 1024*576
+http://pebbles108-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,STUDIO 47 Duisburg ???
+rtmp://$OPT:rtmp-raw=rtmp://93.89.13.30:80/live playpath=studio47livestream swfUrl=http://www.studio47.de/tl_files/player.swf live=1 pageUrl=http://www.studio47.de/
+#EXTINF:-1,Suedtirol TV
+rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV
+#EXTINF:-1,superrtl m3u8 1024*576
+http://pebbles107-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,Swamiji TV AU mms
+mms://streaming.swamiji.tv/YogaIP-TV-LQ
+#EXTINF:-1,TV Aktuell
+http://tvaktuellr.iptv-playoutcenter.de:1935/…/hasbahca.m3u8
+#EXTINF:-1,TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/…/chunklist…
+#EXTINF:-1,TV Touring Schweinfurt
+http://tvtourings.iptv-playoutcenter.de:1935/…/chunklist_w1…
+#EXTINF:-1,TV Touring Würzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/…/chunklist_w8…
+#EXTINF:-1,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/…/chunklist_w6…
+#EXTINF:-1,TVM 3 CH
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.infomaniak.ch/livecast playpath=tvm3 swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.21.swf… live=1 pageUrl=http://livevideo.infomaniak.com/iframe.php…
+#EXTINF:-1,VIVA Germany
+http://87.104.131.92:4022/udp/233.138.48.16:5501?auth=yes?
+#EXTINF:-1,viva m3u8 1024*576
+http://pebbles105-lh.akamaihd.net/i/v…/index_1300_av-p.m3u8…
+#EXTINF:-1,VOX
+http://87.104.131.92:4022/udp/233.138.48.22:5501?auth=yes?
+#EXTINF:-1,vox m3u8 1024*576
+http://pebbles108-lh.akamaihd.net/i/v…/index_1300_av-p.m3u8…
+#EXTINF:-1,wdr m3u8 1024*576
+http://pebbles114-lh.akamaihd.net/i/w…/index_1300_av-p.m3u8…
+#EXTINF:-1,Welt der Wunder TV ***laufft mit enigma2
+rtmp://mf.weltderwunder.c.nmdn.net:1935/wdw_pc playpath=wdwpc.sdp swfUrl=http://medianac.nacamar.de/…/…/flash/kdp3/v3.4.10.1/kdp3.swf pageUrl=http://www.weltderwunder.tv/live.html live=1
+#EXTINF:-1,ZDF
+http://ys-live.cdns.yousee.tv/…/Chann…/Stream(05)/index.m3u8
+#EXTINF:-1,ZDF
+http://87.104.131.92:4022/udp/233.138.48.14:5501?auth=yes?
+#EXTINF:-1,ZDF HD
+http://87.104.131.92:4022/udp/233.138.48.2:5501?auth=yes?
+#EXTINF:-1,zdf m3u8 1024*576
+http://pebbles112-lh.akamaihd.net/i/z…/index_1300_av-p.m3u8…
+#EXTINF:-1,zdf neo m3u8 1024*576
+http://pebbles111-lh.akamaihd.net/i/z…/index_1300_av-p.m3u8…
+#EXTINF:-1,***HasBahCa IPTV ***ALMANCA - DEUTSCH - GERMAN***DOPPELLTE
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,ALEX TV
+rtsp://217.115.145.185:1935/live/mp4:alexlivestream_2
+#EXTINF:-1,ALEX TV 1024*576
+http://alex-stream.rosebud-media.de/…/chunklist_w629559966_…
+#EXTINF:-1,ELBEKANAL SCHÖNEBECK
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:-1,MDF1
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=mdf1_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/index.html
+#EXTINF:-1,muenchen tv 500kb/s
+http://muenchentv.iptv-playoutcenter.de:1935/…/hasbahca.m3u8
+#EXTINF:-1,MUNCHEN TV
+rtmp://$OPT:rtmp-raw=rtmp://muenchentv.iptv-playoutcenter.de/muenchentv// playpath=muenchentv.stream_1 swf
+#EXTINF:-1,NOA4 Hamburg (MQ) mmsh
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asf
+#EXTINF:-1,NOA4 Norderstedt (MQ) mmsh
+mmsh://wt-wm1.wtnet.de/noa4-stream-mid?MSWMExt=.asf
+#EXTINF:-1,OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:-1,OK Magdeburg
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:-1,OK MAGDEBURG 720*576
+http://62.113.210.250/medi…/ok-magdeburg_high/hasbahca.m3u8…
+#EXTINF:-1,OK Merseburg
+rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
+#EXTINF:-1,OK Salzwedel
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:-1,OK SALZWEDEL 720*576
+http://62.113.210.250/medi…/ok-salzwedel_high/hasbahca.m3u8…
+#EXTINF:-1,OK Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1,OK STENDAL 720*576
+http://62.113.210.250/medien…/ok-stendal_high/hasbahca.m3u8…
+#EXTINF:-1,OK Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1,OK WERNIGERODE 720*576
+http://62.113.210.250/me…/ok-wernigerode_high/hasbahca.m3u8…
+#EXTINF:-1,PUNKTUM
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=punktum_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_6.html
+#EXTINF:-1,Punktum Südharz
+rtmp://62.113.210.250/medienasa-live/punktum_high
+#EXTINF:-1,Ran 1
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+#EXTINF:-1,RAN1
+rtmp://$OPT:rtmp-raw=rtmp://62.113.210.250/medienasa-live playpath=ran1_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_4.html
+#EXTINF:-1,RBW
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#EXTINF:-1,RFH TV
+rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:-1,TV Halle 720*576
+http://62.113.210.250/medienasa-…/tvhalle_high/hasbahca.m3u8
+#EXTINF:-1,ZDF
+http://pebbles112-lh.akamaihd.net/i/zd…/index_200_av-p.m3u8…
+#EXTINF:-1,***HasBahCa IPTV***Almanca-Seriler_DEUTSCH SERIEN***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,ateam
+rtmp://$OPT:rtmp-raw=rtmp://174.36.55.76/pull/ playpath=wwateam?keys=etJb979x2pdI91dnDRguKw&keyt=1412519178 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php…
+#EXTINF:-1,baywatch
+rtmp://$OPT:rtmp-raw=rtmp://95.211.148.206/pull/ playpath=wwbaywatch?keys=TZlPfpD80HbLlzii45ZNrw&keyt=1412519272 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php…
+#EXTINF:-1,rulesengagement
+rtmp://$OPT:rtmp-raw=rtmp://46.165.220.212/pull/ playpath=wwrulesengagement?keys=CFi2aiveq-GU3gqmgR1xPg&keyt=1412519304 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php…
+#EXTINF:-1,smalville
+rtmp://$OPT:rtmp-raw=rtmp://95.211.148.206/pull/ playpath=wwsmallville?keys=YTLfTdXexBI7RGIx49GkqQ&keyt=1412519072 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php…
+#EXTINF:-1,Stream 24
+rtmp://$OPT:rtmp-raw=rtmp://95.211.148.206/pull playpath=wwsmallville?keys=YTLfTdXexBI7RGIx49GkqQ&keyt=1412519072 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1,Stream 33
+rtmp://$OPT:rtmp-raw=rtmp://46.165.220.212/pull playpath=wwrulesengagement?keys=CFi2aiveq-GU3gqmgR1xPg&keyt=1412519304 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1,Stream 43
+rtmp://$OPT:rtmp-raw=rtmp://174.36.231.19/pull/ playpath=wwmalcolm?keys=HejVrRopiK2Keb4RGRH0tQ&keyt=1412521440 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php…
+#EXTINF:-1,Stream 44
+rtmp://$OPT:rtmp-raw=rtmp://95.211.186.227/pull/ playpath=wwearl?keys=6fMrx9Iiq7Vl0KauKovQmw&keyt=1412521458 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php…
+#EXTINF:-1,Stream 45
+rtmp://$OPT:rtmp-raw=rtmp://89.248.168.21:443/liveedge/ playpath=wwwilde70er173 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/chn.php?ch=wwwilde70er173
+#EXTINF:-1,***HasBahCa IPTV ISVIÇRE-SCHWEIZ-SWITZERLAND***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,3plus m3u8 1024*576
+http://pebbles114-lh.akamaihd.net/i/3…/index_1300_av-p.m3u8…
+#EXTINF:-1,c9 m3u8 1024*576
+http://pebbles117-lh.akamaihd.net/i/c…/index_1300_av-p.m3u8…
+#EXTINF:-1,caju m3u8 1024*576
+http://pebbles117-lh.akamaihd.net/i/c…/index_1300_av-p.m3u8…
+#EXTINF:-1,cane m3u8 1024*576
+http://pebbles117-lh.akamaihd.net/i/c…/index_1300_av-p.m3u8…
+#EXTINF:-1,joiz m3u8 1024*576
+http://pebbles118-lh.akamaihd.net/i/j…/index_1300_av-p.m3u8…
+#EXTINF:-1,La tele
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:-1,Leman Bleu - Suisse
+http://rtmp.infomaniak.ch/livecast/naxoo/hasbahca.m3u8
+#EXTINF:-1,m6 m3u8 1024*576
+http://pebbles108-lh.akamaihd.net/i/m…/index_1300_av-p.m3u8…
+#EXTINF:-1,M6 MUSIC BLACK
+https://sslhls.m6tv.cdn.sfr.net/…/m6_music_black_hls_aes_85…
+#EXTINF:-1,M6 MUSIC CLUB
+https://sslhls.m6tv.cdn.sfr.net/…/m6_music_club_hls_aes_856…
+#EXTINF:-1,M6TV
+https://sslhls.m6tv.cdn.sfr.net/…/…/six_ter_hls_aes_856.m3u8
+#EXTINF:-1,rouge m3u8 1024*576
+http://pebbles102-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+#EXTINF:-1,Rouge TV
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,rsila1 m3u8 1024*576
+http://pebbles110-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,rsila2 m3u8 1024*576
+http://pebbles110-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,rts 2 m3u8 1024*576
+http://pebbles109-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,rts1 m3u8 1024*576
+http://pebbles109-lh.akamaihd.net/i/r…/index_1300_av-p.m3u8…
+#EXTINF:-1,sf1 m3u8 1024*576
+http://pebbles110-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,sf2 m3u8 1024*576
+http://pebbles110-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,sfinfo m3u8 1024*576
+http://pebbles104-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,swr m3u8 1024*576
+http://pebbles113-lh.akamaihd.net/i/s…/index_1300_av-p.m3u8…
+#EXTINF:-1,t1 m3u8 1024*576
+http://pebbles118-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/…/hasbah…
+#EXTINF:-1,tele bern m3u8 1024*576
+http://pebbles119-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,tele bielingue m3u8 1024*576
+http://pebbles120-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,tele ost m3u8 1024*576
+http://pebbles118-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,tele sudost m3u8 1024*576
+http://pebbles119-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,tele zurich m3u8 1024*576
+http://pebbles119-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,TeleBarn
+rtsp://rtmp.infomaniak.ch/livecast/barntele
+#EXTINF:-1,TELEBARN
+http://rtmp.infomaniak.ch/livecast/barntele/hasbahca.m3u8
+#EXTINF:-1,telebasel m3u8 1024*576
+http://pebbles119-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,Telezuri
+rtmp://rtmp.infomaniak.ch:1935/livecast/_definst_/telezuri
+#EXTINF:-1,tf1 m3u8 1024*576
+http://pebbles109-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,ticino m3u8 1024*576
+http://pebbles117-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,tm1o m3u8 1024*576
+http://pebbles118-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,ttg m3u8 1024*576
+http://pebbles120-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,ttsh m3u8 1024*576
+http://pebbles120-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,ttzh m3u8 1024*576
+http://pebbles119-lh.akamaihd.net/i/t…/index_1300_av-p.m3u8…
+#EXTINF:-1,TVM3 Suisse
+http://rtmp.infomaniak.ch/livecast/tvm3/hasbahca.m3u8

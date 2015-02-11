@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, --Good bye
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, --Please use my new 2015 link
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, --Link is https://www.youtube.com/watch?v=k194_zyvwxU
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, --or visit the husham.com for updated iptv links
+http://www.youtube.com/user/hmemar22

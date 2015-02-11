@@ -1,0 +1,1079 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 23/12/14 @ 17:50 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+
+
+
+#EXTINF:-1 , [COLOR green] --General Other source Tv--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1,Arutz 1 (Israel)
+
+http://c01cp.vds-is.castup.net/990310142-123.flv/smil:990310142-123.smil/chunklist_b1850000.m3u8
+
+#EXTINF:-1,Arutz 10 (Israel)
+
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Arutz 20 (Israel)
+
+http://ynet_hds_live-f.akamaihd.net/i/ynet_1@153521/master.m3u8
+
+#EXTINF:-1,Arutz 9 (Israel)
+
+http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8
+
+#EXTINF:-1,Knesset Channel 99 (Israel)
+mms://212.235.5.241:80/knessetlive
+#EXTINF:-1,Sport5 1 (Israel)
+rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
+#EXTINF:-1,Sport5 2 (Israel)
+rtmp://s5-s.nsacdn.com:1935/sport5_Live3Repeat/Live3_3 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live3&Type=live
+#EXTINF:-1,London Live
+
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1,STV (Scotland)
+
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
+
+#EXTINF:-1,ABC 7 (USA)
+rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,FOX 5 (USA)
+rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,NBC 4 (USA)
+rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,CBS 2 (USA)
+rtmp://rtmp.zerocast.tv:1935/live playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,National Geographic
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8
+
+#EXTINF:-1,Nat Geo Wild (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
+
+#EXTINF:-1,Animal Planet (Eng/Rus)
+
+http://91.228.87.235:7777/udp/225.2.2.134:1234
+
+#EXTINF:-1,Discovery Channel (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8
+
+#EXTINF:-1,Discovery Channel HD (Eng/Rus)
+
+http://hls.cn.ru/streaming/discovery_hd/16/fullhd/playlist.m3u8
+
+#EXTINF:-1,Discovery World (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8
+
+#EXTINF:-1,Discovery Science (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8
+
+#EXTINF:-1,Viasat Nature (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8
+
+#EXTINF:-1,Viasat History (Eng/Rus)
+
+http://91.228.87.235:7777/udp/225.2.2.163:4321
+
+#EXTINF:-1,History
+
+http://202.75.23.36/live/ch45/03.m3u8
+
+#EXTINF:-1,FOX (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FOX/variant.m3u8
+
+#EXTINF:-1,FOX Life (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8
+
+#EXTINF:-1,Universal Channel
+
+http://109.86.103.241:8888/udp/233.191.133.27:1234
+
+#EXTINF:-1,Lifetime
+
+http://202.75.23.36/live/ch48/03.m3u8
+
+#EXTINF:-1,Sony Channel
+
+http://secure.ilikehd.com/livetv/player/totlink.m3u8?channel_id=bd30e27f1c48430ba2104548a1b124ca
+
+#EXTINF:-1,Travel Channel
+
+http://83.139.104.123/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1,E (Eng/Rus)
+
+http://109.86.103.241:8888/udp/233.191.133.26:1234
+
+#EXTINF:-1,Food Network
+
+http://83.139.104.123/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Fashion TV
+
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
+#EXTINF:-1,Seinfeld 24/7
+rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/porkie
+#EXTINF:-1,Family Guy 24/7
+rtmp://192.99.38.122/app/ playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
+#EXTINF:-1,Da Vinci Learning (Eng/Ukr/Hun/Rus/Pol)
+
+http://artm:artm@84.22.33.22:8001
+
+#EXTINF:-1,Boomerang (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
+
+#EXTINF:-1,Jim Jam
+
+http://202.75.23.37/live/ch17/03.m3u8
+
+#EXTINF:-1,Cartoonito
+
+http://202.75.23.36/live/ch49/03.m3u8
+
+#EXTINF:-1,Cartoon Network (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8
+
+#EXTINF:-1,BT Sport 1
+rtmp://80.82.78.22:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1,BT Sport 2
+rtmp://80.82.78.22:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1,Sky Sports 1
+rtmpe://46.246.124.26:1935/live/ playpath=sskys1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1,Sky Sports 2
+rtmpe://46.246.124.26:1935/live/ playpath=sskys2  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1,Sky Sports 3
+rtmpe://46.246.124.26:1935/live/ playpath=sskys3  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1,Sky Sports 4
+rtmpe://46.246.124.26:1935/live/ playpath=sskys4  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1,Sky Sports 5
+rtmpe://46.246.124.26:1935/live/ playpath=sskys5  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1,Sportsnet One
+
+http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Sportsnet East
+
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Sportsnet West
+
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Sportsnet Pacific
+
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Eurosport
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8
+
+#EXTINF:-1,Eurosport 2
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
+
+#EXTINF:-1,Setanta
+
+http://202.75.23.36/live/ch44/03.m3u8
+
+#EXTINF:-1,Viasat Sport (Eng/Rus)
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
+
+#EXTINF:-1,Extreme Sports
+
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/index.m3u8
+
+#EXTINF:-1,FightBox
+
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+
+#EXTINF:-1,Poker
+
+http://195.154.188.161/hls/pokerhd.m3u8
+
+#EXTINF:-1,i24 News
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1,CNN
+
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1,BBC News
+
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,CNBC
+rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+#EXTINF:-1,Bloomberg
+
+http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8
+
+#EXTINF:-1,ABC News
+
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1, MTV Music
+
+http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+
+#EXTINF:-1, MTV Rocks
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1, MTV Dance
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1, MTV Hits
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,VH1
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+
+#EXTINF:-1,VH1 Classic
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+
+#EXTINF:-1,4 Music
+
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+#EXTINF:-1 ,heat
+
+http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8
+
+#EXTINF:-1 ,The Box
+
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+
+#EXTINF:-1 ,Magic
+
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+
+#EXTINF:-1,Clubland
+
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,NOW Music
+
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Capital TV
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+#EXTINF:-1,Heart TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart
+#EXTINF:-1,M6 Music Club
+
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8
+
+#EXTINF:-1,RMC TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,Virgin TV
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:-1,Jazz
+
+http://149.11.34.78:1935/live/jazztv.stream/hasbahca.m3u8
+
+#EXTINF:-1,TVE 24h (Spain)
+
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,La Sexsta HD (Spain)
+
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,Antena 3 HD (Spain)
+
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+
+#EXTINF:-1,TN Canal 13 (Argentina)
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,TN 24 Horas (Argentina)
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,C5N (Argentina)
+rtmp://c5n.stweb.tv/c5n/live
+#EXTINF:-1,Tele Antillas (Dominican Republic)
+
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u
+
+#EXTINF:-1,TiVa (Puerto Rico)
+
+http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
+
+#EXTINF:-1,America (Peru)
+rtmp://cdn5.iviplanet.com/AmericaPeru playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/Peru/america-peru
+#EXTINF:-1,Global TV (Peru)
+rtmp://fl01.iviplanet.com/DeportvCOL playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/Peru/Globaltv
+#EXTINF:-1,Latele (Peru)
+rtmp://d91.iblups.com/latele playpath=MMb2wRCis1 swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D10691 live=1 pageUrl=http://iblups.com/e_latele-620-382 conn=S:OK –live
+#EXTINF:-1,RTP 1 (Portugal)
+rtmp://ec21.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 timeout=10
+#EXTINF:-1,Sport TV 1
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 3
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 4
+rtmpe://5.153.233.106:443/share/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to
+#EXTINF:-1,i24 News (French)
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
+#EXTINF:-1,TF1 HD (France)
+
+http://max.myfrtv.com/1401/m3u8/1401.m3u8
+
+#EXTINF:-1,TV5 Monde (France)
+
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/tv5/tv5/tv5.m3u8?rRb545vJBB5tYzB7vVP
+
+#EXTINF:-1,HD1 (France)
+
+http://stream3.latvdefrance.com/live/hd1.m3u8
+
+#EXTINF:-1,France Ô
+
+http://stream3.latvdefrance.com/live/franceo.m3u8
+
+#EXTINF:-1,M6 (France)
+
+http://stream0.latvdefrance.com/live/m6.m3u8
+
+#EXTINF:-1,6TER (France)
+
+http://stream2.latvdefrance.com/live/6ter.m3u8
+
+#EXTINF:-1,W9 (France)
+
+http://stream1.latvdefrance.com/live/w9.m3u8
+
+#EXTINF:-1,D8 (France)
+
+http://stream1.latvdefrance.com/live/d8.m3u8
+
+#EXTINF:-1,D17 (France)
+
+http://stream2.latvdefrance.com/live/d17.m3u8
+
+#EXTINF:-1,BFMTV (France)
+
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+
+#EXTINF:-1,Eurosport (French)
+
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+#EXTINF:-1,Eurosport 2 (French)
+
+http://eurosport2-hls.live.numericable.tv/live/hls/eurosport2/ipad.m3u8
+
+#EXTINF:-1,L’Équipe (France)
+
+http://stream3.latvdefrance.com/live/lequipe.m3u8
+
+#EXTINF:-1,Mediaset Italia
+
+http://83.139.104.123/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Cielo (Italy)
+
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8?hdnea=st=1391525654~exp=1391525954~hmac=66a76ab45c152e235967751a5800a45bc7418918ea2b336f47108464c98db43f
+
+#EXTINF:-1,Smash TV (Malta)
+
+http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8
+
+#EXTINF:-1,f living (Malta)
+
+http://iphone-streaming.ustream.tv/ustreamVideo/7096181/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Planeta (Bulgaria)
+
+http://w1eu.drundoo.com:1935/DrundooDVR/_definst_/smil:405f1996-77f1-47e9-9646-0c6bfa5e18aa.smil/playlist.m3u8
+
+#EXTINF:-1,Balkanika (Bulgaria)
+
+http://w1eu.drundoo.com:1935/DrundooDVR/_definst_/smil:776c511d-aee0-4e33-a44e-265e464c0a28.smil/playlist.m3u8
+
+#EXTINF:-1,BTV HD (Bulgaria)
+
+http://w1eu.drundoo.com:1935/DrundooDVR/_definst_/smil:9d4feaa9-6b93-4133-a25e-b15d5e63d6a5.smil/playlist.m3u8
+
+#EXTINF:-1,BNT 1 (Bulgaria)
+
+http://w1eu.drundoo.com:1935/DrundooDVR/_definst_/smil:ff304f5e-dbb4-4c6d-9df8-d5c93ccbd481.smil/playlist.m3u8
+
+#EXTINF:-1,BNT World (Bulgaria)
+
+http://izbshow.bnt.bg/stream.m3u8
+
+#EXTINF:-1,Ant1 (Greece)
+
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+
+#EXTINF:-1,Ant1 (Cyprus)
+
+http://videos.ant1.com.cy/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,ERT 3 (Greece)
+
+http://live2.ertopen.com/live2/e600/playlist.m3u8
+
+#EXTINF:-1,Mega (Greece)
+
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+
+#EXTINF:-1,Ena (Greece)
+rtmp://srv1.viiideo.gr/videon/enatv
+#EXTINF:-1,Nea (Greece)
+
+http://srv1.viiideo.gr:1935/hellasonmedia/mp4:neatv/hasbahca.m3u8
+
+#EXTINF:-1,Star TV (Greece)
+
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+
+#EXTINF:-1,Extra 3 (Greece)
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:-1,Blue Sky (Greece)
+rtmp://188.40.142.123:1935/bluesky/bluesky.stream
+#EXTINF:-1,Makedonia (Greece)
+
+http://213.16.167.55/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,TV Creta (Greece)
+
+http://srv1.viiideo.gr:1935/hellasonmedia/mp4:tvcreta/playlist.m3u8
+
+#EXTINF:0, Duna HD (Hungary)
+
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8
+
+#EXTINF:0, Duna World HD (Hungary)
+
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
+
+#EXTINF:0, M1 HD (Hungary)
+
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+
+#EXTINF:0, M2 HD (Hungary)
+
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1,RTL (Luxembourg)
+rtmp://wowza01.newmedia.lu/channel1/live
+#EXTINF:-1,RTL (Croatia)
+
+http://83.139.104.123/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+
+#EXTINF:-1,RTL 2 (Croatia)
+
+http://83.139.104.123/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1,HRT 1 (Croatia)
+
+http://83.139.104.123/Content/HLS/Live/Channel(HTV1)/index.m3u8
+
+#EXTINF:-1,HRT 2 (Croatia)
+
+http://83.139.104.123/Content/HLS/Live/Channel(HTV2)/index.m3u8
+
+#EXTINF:-1,HRT 3 (Croatia)
+
+http://83.139.104.123/Content/HLS/Live/Channel(HTV3)/index.m3u8
+
+#EXTINF:-1,HRT 4 (Croatia)
+
+http://83.139.104.123/Content/HLS/Live/Channel(HTV4)/index.m3u8
+
+#EXTINF:-1,MPT 1 (Macedonia)
+
+http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8
+
+#EXTINF:-1,Planet TV (Slovenia)
+rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public
+#EXTINF:-1,ALB (Albania)
+rtmp://188.138.17.8:1935/albuk/albmus.stream
+#EXTINF:-1,Romania TV
+
+http://91.232.210.155:8020/rtv.flv?file=rtv.flv&start=0
+
+#EXTINF:-1,Digi 24 (Romania)
+
+http://82.76.249.77/digi24edge/digi24hdhqhls/index.m3u8
+
+#EXTINF:-1,1 TV (Georgia)
+rtmp://208.75.229.59:1935/1tv/ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://streema.com/tv/1TV playpath=1tv1
+#EXTINF:-1,Silk Sport 2 (Georgia)
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1,AZTV (Azerbaijan)
+
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8
+
+#EXTINF:-1,Idman (Azerbaijan)
+
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+
+#EXTINF:-1,MuzTV (Azerbaijan)
+rtmp://85.132.78.6:1935/live/muztv.stream
+#EXTINF:-1,Arirang (Korea)
+
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+
+#EXTINF:-1,MBC (Korea)
+rtmp://fms.mbcgn.kr:1935/livepkgr_j_tv playpath=livestream2 swfUrl=http://www.mbcgn.kr/onair/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.mbcgn.kr/onair/player.php?id=TVJJ
+#EXTINF:-1,KCTV (Korea)
+rtsp://media2.kctvjeju.com/live5
+#EXTINF:-1,M Tunes (India)
+
+http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
+
+#EXTINF:-1,CCTV 5 (China)
+rtmp://123.66.29.8:1935/ss1live/ playpath=cctv5-2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://live.idwebtv.com/country/indo/campur/all.htm
+#EXTINF:-1,Ariana (Afghanistan)
+
+http://uni2rtmp.tulix.tv:1935/ariana/ariana/playlist.m3u8
+
+#EXTINF:-1,Payam-E-Afghan (Afghanistan)
+
+http://mellitvrtmp.tulix.tv:1935/m-payam/m-payam/playlist.m3u8
+
+#EXTINF:0,1 Канал
+
+http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8
+
+#EXTINF:0,Россия 1
+
+http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8
+
+#EXTINF:0,Россия 2
+
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+
+#EXTINF:0,Россия 24
+
+http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8
+
+#EXTINF:0,Культура
+
+http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8
+
+#EXTINF:0,НТВ
+
+http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8
+
+#EXTINF:0,СТС
+
+http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
+
+#EXTINF:0,Рен
+
+http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8
+
+#EXTINF:0,ТВЦ
+
+http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8
+
+#EXTINF:0,RTVi
+
+http://109.86.103.241:8888/udp/233.191.133.73:1234
+
+#EXTINF:0,Перец
+
+http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8
+
+#EXTINF:0,Домашний
+
+http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8
+
+#EXTINF:0,5 Канал
+
+http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8
+
+#EXTINF:0,Ю
+
+http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8
+
+#EXTINF:0,Пятница
+
+http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8
+
+#EXTINF:0,Nostalgia
+
+http://109.86.103.241:8888/udp/233.191.133.15:1234
+
+#EXTINF:0,2×2
+
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
+
+#EXTINF:0,ОТС
+
+http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8
+
+#EXTINF:0,ТВ-3
+
+http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8
+
+#EXTINF:0,49 Канал (Новосибирск)
+
+http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8
+
+#EXTINF:0,карусель
+
+http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8
+
+#EXTINF:0,Детский
+
+http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8
+
+#EXTINF:0,Nickelodeon
+
+http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
+
+#EXTINF:0,Мать и Дитя
+
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+
+#EXTINF:0,24 Техно
+
+http://hls.novotelecom.ru/streaming/24techno/tvrec/playlist.m3u8
+
+#EXTINF:0,Первый Образовательный
+
+http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8
+
+#EXTINF:0,ТВ 21
+
+http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8
+
+#EXTINF:0,Настоящее Страшное
+
+http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8
+
+#EXTINF:0,Дождь
+
+http://hls.novotelecom.ru/streaming/rain/tvrec/playlist.m3u8
+
+#EXTINF:0,РБК
+
+http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8
+
+#EXTINF:0,Мир 24
+
+http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8
+
+#EXTINF:0,Звезда
+
+http://hls.novotelecom.ru/streaming/zvezda/tvrec/playlist.m3u8
+
+#EXTINF:0,Живи
+
+http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8
+
+#EXTINF:0,Chanson TV
+
+http://109.86.103.241:8888/udp/238.0.0.170:1234
+
+#EXTINF:0,Musicbox Ru
+
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+
+#EXTINF:0,Musicbox
+
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+
+#EXTINF:0,1HD
+
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
+
+#EXTINF:0,A-One
+
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+
+#EXTINF:0,Sport HD
+
+http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-80.m3u8
+
+#EXTINF:0,Sport 1
+
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+#EXTINF:0,Football
+
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+#EXTINF:0,NTV Sport
+
+http://iptv.sat-elit.net/hls/123/index.m3u8
+
+#EXTINF:0,NTV Football 1
+
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
+
+#EXTINF:0,NTV Football 2
+
+http://iptv.sat-elit.net/hls/530/index.m3u8
+
+#EXTINF:0,NTV Football 3
+
+http://iptv.sat-elit.net/hls/522/index.m3u8
+
+#EXTINF:0,NTV Basketball
+rtmp://iptv.sat-elit.net/iptv/529
+#EXTINF:0,NTV Sport Soyuz
+
+http://iptv.sat-elit.net/hls/532/index.m3u8
+
+#EXTINF:0,NTV Tennis
+
+http://iptv.sat-elit.net/hls/528/index.m3u8
+
+#EXTINF:0,Nash Football
+
+http://193.232.151.135/hls-live/livepkgr/_1073_/1073/1073-70.m3u8
+
+#EXTINF:-1,Xsport (Ukraine)
+#EXTINF:0,Moldova 1
+
+http://moldova1.web.tvbox.md
+
+#EXTINF:0,1 Prime
+
+http://prime.web.tvbox.md
+
+#EXTINF:0,ProTV Chisinau
+
+http://protv.web.tvbox.md
+
+#EXTINF:0,Jurnal TV
+
+http://jurnaltvsd.web.tvbox.md
+
+#EXTINF:0,Jurnal TV HD
+
+http://jurnaltvhd.web.tvbox.md
+
+#EXTINF:0,Publika TV
+
+http://publikatv.web.tvbox.md
+
+#EXTINF:0,2 Plus
+
+http://2plus.web.tvbox.md
+
+#EXTINF:0,TNT Bravo
+
+http://tntdirect.web.tvbox.md
+
+#EXTINF:0,CTC MEGA
+
+http://ctcmega.web.tvbox.md
+
+#EXTINF:0,RTR Moldova
+
+http://rtrplaneta.web.tvbox.md
+
+#EXTINF:0,Canal 3
+
+http://canal3.web.tvbox.md
+
+#EXTINF:0,TV7
+
+http://tv7.web.tvbox.md
+
+#EXTINF:0,Ren Moldova
+
+http://rentvmold.web.tvbox.md
+
+#EXTINF:0,N4
+
+http://n4.web.tvbox.md
+
+#EXTINF:0,Accent TV
+
+http://accenttv.web.tvbox.md
+
+#EXTINF:0,Sor TV
+
+http://sortv.web.tvbox.md
+
+#EXTINF:0,Elita TV
+
+http://elitatv.web.tvbox.md
+
+#EXTINF:0,TVC 21
+
+http://tvc21.web.tvbox.md
+
+#EXTINF:0,RUTV Moldova
+
+http://rutv.web.tvbox.md
+
+#EXTINF:0,Zona M
+
+http://zonam.web.tvbox.md
+
+#EXTINF:0,Noroc TV
+
+http://noroctv.web.tvbox.md
+
+#EXTINF:0,Busuioc TV
+
+http://busuioc.web.tvbox.md
+
+#EXTINF:0,Moldova Sport
+
+http://sportmoldova.web.tvbox.md
+
+#EXTINF:0,TV Prim Glodeni
+
+http://tvprim.web.tvbox.md
+
+#EXTINF:0,Dubai (UAE)
+
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
+
+#EXTINF:-1,Egypt 1
+
+http://8.21.48.19:7777/AlMasriyah_HD.m3u8
+
+#EXTINF:-1,Egypt 2
+
+http://8.21.48.19:7777/AlThanya_HD.m3u8
+
+#EXTINF:0, Algerie
+
+http://109.86.103.241:8888/udp/238.0.16.24:1234
+
+#EXTINF:-1,Syria
+
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+
+#EXTINF:-1,Syria Aloula
+
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+
+#EXTINF:-1,Syria Drama
+
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:0,NBN (Lebanon)
+rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.nbn.com.lb/live/ live=1 timeout=15
+#EXTINF:0,LBC Europe (Lebanon)
+rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=http://www.lbcgroup.tv/watch-lbci-live
+#EXTINF:0,Hawacom TV (Lebanon)
+
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+
+#EXTINF:0,Vin TV (Kurdistan)
+
+http://95.170.203.137:8088/smooth.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0,Speda (Kurdistan)
+rtmp://sepidehlive.nanocdn.com:1935/live/sepideh256
+#EXTINF:-1,Aliraqia (Iraq)
+
+http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
+
+#EXTINF:-1,Al Hurra (Iraq)
+rtmp://cp51007.live.edgefcs.net:80/live?ovpfv=2.1.6/Alhurra_Flash@15 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alhurra.com/info/english/112.html
+#EXTINF:0,Funoon TV (Iraq)
+
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
+#EXTINF:-1,Al Sumaria (Iraq)
+rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live
+#EXTINF:0,Al Rasheed TV (Iraq)
+
+http://http.mmp.streamuk.com/live/smil:0_fk07czmb.smil/chunklist_b1228800.m3u8
+
+#EXTINF:0,i24 News Arabia (Israel)
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+
+#EXTINF:0,BBC Arabia (UK)
+
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:0,DW Arabia (Germany)
+
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+
+#EXTINF:-1,AD Sports 1 (UAE)
+
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+
+#EXTINF:-1,AD Sports 2 (UAE)
+
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+
+#EXTINF:0,Dubai Racing (UAE)
+
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+
+#EXTINF:0,Pro Sports 1 (UAE)
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+
+#EXTINF:0,Pro Sports 2 (UAE)
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+
+#EXTINF:0,Pro Sports 3 (UAE)
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+
+#EXTINF:0,Pro Sports 4 (UAE)
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+
+#EXTINF:0,Bahrain Sport
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1,K24 (Kenya)
+rtmp://mediamax.cs.netromedia.net/K24test playpath=K24test swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=08ad3a43-97a5-4d23-973f-d726bc2bd52a&iframe=true&h=480&w=640&autoPlay=false&scaling=scale
+#EXTINF:-1,ETv (Ethiopia)
+rtmp://213.55.98.102/live/livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf pageUrl=http://www.etvlive.gov.et/etv.html live=1 timeout=20
+#EXTINF:0,ERI TV (Eritrea)
+rtmp://173.192.70.133:1935/live playpath=myStream swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://eri.tv/ timeout=10
+#EXTINF:0,Tchad (Chad)
+rtmp://tchad.streamakaci.com/tchad/tchad.stream
+#EXTINF:-1,TVC (Nigeria)
+rtmp://uni2rtmp.tulix.tv:1935/tvcontinental playpath=myStream.sdp swfUrl=http://www.freeetv.com/script/mediaplayer/player.swf?file=myStream.sdp&type=flv&streamer=rtmp://uni2rtmp.tulix.tv:1935/tvcontinental&autostart=true&stretching=exactfit&mute=false live=1 pageUrl=http://www.freeetv.com/modules.php?name=Video_Stream&page=watch&id=5312
+#EXTINF:-1,TV Guinea Ecuatorial (Equatorial Guinea)
+rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.freeetv.com/script/mediaplayer/player.swf?file=rtvgeint.flv&type=flv&streamer=rtmp://82.98.138.14/live&autostart=true&stretching=exactfit&mute=false live=1 pageUrl=http://www.freeetv.com/modules.php?name=Video_Stream&page=watch&id=4132
+
+
+
+#EXTINF:-1, Rai Scuola
+mmsh://212.162.68.163:80/rai_scuola
+
+#EXTINF:-1, Rai Storia
+mmsh://212.162.68.163/rai_storia
+
+#EXTINF:-1, Rai Yoyo
+mmsh://212.162.68.162/rai_yoyo
+
+
+‪#‎EXTINF‬:-1,Наука 2.0 
+rtmp://tv1.i-ghost.net/stream//125?key=2LQ48VFM 
+#EXTINF:-1,ТНТ 
+rtmp://tv1.i-ghost.net/stream//135?key=2LQ48VFM 
+#EXTINF:-1 ,REN TV 
+rtmp://tv1.i-ghost.net/stream//132?key=2LQ48VFM 
+#EXTINF:-1,СТС 
+rtmp://tv1.i-ghost.net/stream//138?key=2LQ48VFM 
+#EXTINF:-1,Kitchen TV 
+rtmp://tv1.i-ghost.net/stream//179?key=2LQ48VFM 
+#EXTINF:-1,Investigation Discovery 
+rtmp://tv1.i-ghost.net/stream//115?key=2LQ48VFM 
+#EXTINF:-1,Animal Planet 
+rtmp://tv1.i-ghost.net/stream//114?key=2LQ48VFM 
+#EXTINF:-1,Kinolyuks
+rtmp://tv1.i-ghost.net/stream//117?key=2LQ48VFM 
+#EXTINF:-1,Disney Channel 
+rtmp://tv1.i-ghost.net/stream//118?key=2LQ48VFM 
+#EXTINF:-1,World Fashion 
+rtmp://tv1.i-ghost.net/stream//119?key=2LQ48VFM 
+#EXTINF:-1,Carousel 
+rtmp://tv1.i-ghost.net/stream//120?key=2LQ48VFM 
+#EXTINF:-1,Pepper
+rtmp://tv1.i-ghost.net/stream//121?key=2LQ48VFM 
+#EXTINF:-1,Russian Illusion 
+rtmp://tv1.i-ghost.net/stream//122?key=2LQ48VFM 
+#EXTINF:-1,Kinoreys 1 
+rtmp://tv1.i-ghost.net/stream//107?key=2LQ48VFM 
+#EXTINF:-1,Kinoreys 2 
+rtmp://tv1.i-ghost.net/stream//108?key=2LQ48VFM 
+#EXTINF:-1,Kinoreys 3 
+rtmp://tv1.i-ghost.net/stream//110?key=2LQ48VFM 
+#EXTINF:-1,Kinoreys 4 
+rtmp://tv1.i-ghost.net/stream//104?key=2LQ48VFM 
+#EXTINF:-1,Kinoreys 5 
+rtmp://tv1.i-ghost.net/stream//123?key=2LQ48VFM 
+#EXTINF:-1,NTV + Basketball 
+rtmp://tv1.i-ghost.net/stream//166?key=2LQ48VFM 
+#EXTINF:-1,NTV + Football 1 
+rtmp://tv1.i-ghost.net/stream//164?key=2LQ48VFM 
+#EXTINF:-1,1+1 
+rtmp://tv1.i-ghost.net/stream//172?key=2LQ48VFM 
+#EXTINF:-1,STB 
+rtmp://tv1.i-ghost.net/stream//156?key=2LQ48VFM 
+#EXTINF:-1,New channel 
+rtmp://tv1.i-ghost.net/stream//157?key=2LQ48VFM 
+#EXTINF:-1,TRK Ukraina 
+rtmp://tv1.i-ghost.net/stream//167?key=2LQ48VFM 
+#EXTINF:-1,ICTV 
+rtmp://tv1.i-ghost.net/stream//158?key=2LQ48VFM 
+#EXTINF:-1,2+2 
+rtmp://tv1.i-ghost.net/stream//173?key=2LQ48VFM 
+#EXTINF:-1,Inter
+rtmp://tv1.i-ghost.net/stream//174?key=2LQ48VFM 
+#EXTINF:-1,MEGA
+rtmp://tv1.i-ghost.net/stream//175?key=2LQ48VFM 
+#EXTINF:-1,5 Channel 
+rtmp://tv1.i-ghost.net/stream//189?key=2LQ48VFM 
+#EXTINF:-1,Nickelodeon 
+rtmp://tv1.i-ghost.net/stream//127?key=2LQ48VFM 
+#EXTINF:-1,Football 3 HD 
+rtmp://tv1.i-ghost.net/stream//185?key=2LQ48VFM 
+#EXTINF:-1,HD Movies 
+rtmp://tv1.i-ghost.net/stream//160?key=2LQ48VFM 
+#EXTINF:-1,HD Movie 2
+rtmp://tv1.i-ghost.net/stream//162?key=2LQ48VFM 
+#EXTINF:-1,TV1000 Comedy HD 
+rtmp://tv1.i-ghost.net/stream//201?key=2LQ48VFM 
+#EXTINF:-1,TV1000 Megahit HD 
+rtmp://tv1.i-ghost.net/stream//200?key=2LQ48VFM 
+#EXTINF:-1,NTV + Cinema Plus 
+rtmp://tv1.i-ghost.net/stream//133?key=2LQ48VFM 
+#EXTINF:-1,NTV + Kinolyuks
+rtmp://tv1.i-ghost.net/stream//117?key=2LQ48VFM 
+#EXTINF:-1,New Cinema 
+rtmp://tv1.i-ghost.net/stream//128?key=2LQ48VFM 
+#EXTINF:-1,NTV + Premiere 
+rtmp://tv1.i-ghost.net/stream//170?key=2LQ48VFM 
+#EXTINF:-1,NTV + Cinema Club 
+rtmp://tv1.i-ghost.net/stream//171?key=2LQ48VFM 
+#EXTINF:-1,Universal Channel 
+rtmp://tv1.i-ghost.net/stream//152?key=2LQ48VFM 
+#EXTINF:-1,FOX 
+rtmp://tv1.i-ghost.net/stream//182?key=2LQ48VFM 
+#EXTINF:-1,FOX Life 
+rtmp://tv1.i-ghost.net/stream//129?key=2LQ48VFM 
+#EXTINF:-1,Sony SCI-FI 
+rtmp://tv1.i-ghost.net/stream//180?key=2LQ48VFM 
+#EXTINF:-1,TV1000 Action 
+rtmp://tv1.i-ghost.net/stream//100?key=2LQ48VFM 
+#EXTINF:-1,Friday 
+rtmp://tv1.i-ghost.net/stream//181?key=2LQ48VFM 
+#EXTINF:-1,Viasat History 
+rtmp://tv1.i-ghost.net/stream//101?key=2LQ48VFM 
+#EXTINF:-1,Nat Geo WILD 
+rtmp://tv1.i-ghost.net/stream//149?key=2LQ48VFM 
+#EXTINF:-1,Hunting and Fishing 
+rtmp://tv1.i-ghost.net/stream//155?key=2LQ48VFM 
+#EXTINF:-1,Auto Plus 
+rtmp://tv1.i-ghost.net/stream//186?key=2LQ48VFM 
+#EXTINF:-1,The first HD channel 
+rtmp://tv1.i-ghost.net/stream//131?key=2LQ48VFM 
+#EXTINF:-1,Discovery World 
+rtmp://tv1.i-ghost.net/stream//145?key=2LQ48VFM

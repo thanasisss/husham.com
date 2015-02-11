@@ -1,0 +1,101 @@
+# EXTM3U
+
+#EXTINF: -1, Al Jazeera Channel
+
+http://87.104.131.92:4022/udp/233.138.48.18:5501
+
+#EXTINF: -1, NDR
+
+http://87.104.131.92:4022/udp/233.138.48.17:5501
+
+#EXTINF: -1, ProSieben
+
+http://87.104.131.92:4022/udp/233.138.48.30:5501
+
+#EXTINF: -1, Viasat History
+
+http://87.104.131.92:4022/udp/233.138.48.66:5501
+
+#EXTINF: -1, SVTB / SVT24
+
+http://87.104.131.92:4022/udp/233.138.48.71:5501
+
+#EXTINF: -1, TNT DK
+
+http://87.104.131.92:4022/udp/233.138.48.79:5501
+
+#EXTINF: -1, TV3 Denmark
+
+http://87.104.131.92:4022/udp/233.138.48.83:5501
+
+#EXTINF: -1, CANAL8 Sport
+
+http://87.104.131.92:4022/udp/233.138.48.112:5501
+
+#EXTINF: -1, TLC HD
+
+http://87.104.131.92:4022/udp/233.138.48.110:5501
+
+#EXTINF: -1, New channel
+
+http://87.104.131.92:4022/udp/233.138.48.119:5501
+
+#EXTINF: -1, ID Investigation Discovery (D)
+
+http://87.104.131.92:4022/udp/233.138.48.134:5501
+
+#EXTINF: -1, TRT-3 SPOR
+
+http://87.104.131.92:4022/udp/233.138.48.158:5501
+
+#EXTINF: -1, DR Ramasjang
+
+http://87.104.131.92:4022/udp/233.138.48.165:5501
+
+#EXTINF: -1, DR synstolkning
+
+http://87.104.131.92:4022/udp/233.138.48.166:5501
+
+#EXTINF: -1, Kanal Midt-Vest
+
+http://87.104.131.92:4022/udp/233.138.48.174:5501
+
+#EXTINF: -1, New channel
+
+http://87.104.131.92:4022/udp/233.138.48.171:5501
+
+#EXTINF: -1, TV 2 (Midt-Vest)
+
+http://87.104.131.92:4022/udp/233.138.48.186:5501
+
+#EXTINF: -1, New channel
+
+http://87.104.131.92:4022/udp/233.138.48.189:5501
+
+#EXTINF: -1, VH 1 DK
+
+http://87.104.131.92:4022/udp/233.138.48.194:5501
+
+#EXTINF: -1, Uptown TV
+
+http://87.104.131.92:4022/udp/233.138.48.203:5501
+
+#EXTINF: -1, Nick Jr.
+
+http://87.104.131.92:4022/udp/233.138.48.201:5501
+
+#EXTINF: -1, New channel
+
+http://87.104.131.92:4022/udp/233.138.48.230:5501
+
+#EXTINF: -1, New channel
+
+http://87.104.131.92:4022/udp/233.138.48.226:5501
+
+#EXTINF: -1, NHK World TV
+
+http://87.104.131.92:4022/udp/233.138.48.239:5501
+
+#EXTINF: -1,24Nordjyske
+
+http://87.104.131.92:4022/udp/233.138.48.240:5501

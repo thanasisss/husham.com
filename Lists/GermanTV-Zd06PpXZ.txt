@@ -1,0 +1,666 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 08/02/15 @ 01:38 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+
+#EXTINF:-1, [COLOR green] --Germany Tv--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+
+#EXTINF:-1,daserste
+http://stream.deg.net/livehttp/daserste.m3u8
+
+#EXTINF:-1,einsplus
+http://stream.deg.net/livehttp/einsplus.m3u8
+
+#EXTINF:-1,neo
+http://stream.deg.net/livehttp/neo.m3u8
+
+#EXTINF:-1,orf1
+http://stream.deg.net/livehttp/orf1.m3u8
+
+#EXTINF:-1,orf2
+http://stream.deg.net/livehttp/orf2.m3u8
+
+‪#EXTINF:-1,3sat
+http://stream.deg.net/livehttp/3sat.m3u8
+
+#EXTINF:-1,arte
+http://stream.deg.net/livehttp/arte.m3u8
+
+#EXTINF:-1,atv
+http://stream.deg.net/livehttp/atv.m3u8
+
+#EXTINF:-1,zdf
+http://stream.deg.net/livehttp/zdf.m3u8
+
+#EXTINF:-1,br
+http://stream.deg.net/livehttp/br.m3u8
+
+#EXTINF:-1,phoenix
+http://stream.deg.net/livehttp/phoenix.m3u8
+
+#EXTINF:-1,swr
+http://stream.deg.net/livehttp/swr.m3u8
+
+#EXTINF:-1,tele5
+http://stream.deg.net/livehttp/tele5.m3u8 
+
+#EXTINF:0,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+#EXTINF:0,ZDF INFO
+http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8
+
+#EXTINF:0,ZDF KULTUR
+http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8
+
+#EXTINF:0,ZDF NEO
+http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8
+
+#EXTINF:0,ZDF
+http://zdf_hds_de-f.akamaihd.net/i/de14_v1@147090/master.m3u8
+
+#EXTINF:-1,Pro 7 Maxx
+http://82.220.10.2/udp/239.3.0.105:1234
+
+#EXTINF:-1,RTL
+http://82.220.10.2/udp/239.3.0.90:1234
+
+#EXTINF:0, RTL Nitro
+http://212.79.96.134:8026
+
+#EXTINF:-1,SAT 1
+http://82.220.10.2/udp/239.3.0.107:1234
+
+#EXTINF:0,sixx
+http://s5.stream-server.org:1935/live/sixx.stream/HasBahCa.m3u8
+
+#EXTINF:-1, Pro 7
+http://artm:artm@84.22.33.22:8000
+
+#EXTINF:-1,VOX
+http://88.212.11.206:5000/live/66/66.m3u8
+
+#EXTINF:-1,RTL2
+http://s4.stream-server.org:1935/live/rtl2.stream/HasBahCa.m3u8
+
+#EXTINF:-1,SUPER RTL
+http://s5.stream-server.org:1935/live/superrtl.stream/HasBahCa.m3u8
+
+#EXTINF:-1,kabel eins
+http://82.220.10.2/udp/239.3.0.102:1234
+
+#EXTINF:0,DMAX
+http://s3.stream-server.org:1935/live/dmax.stream/HasBahCa.m3u8
+
+#EXTINF:0,orf1
+http://s5.stream-server.org:1935/live/orf1.stream/HasBahCa.m3u8
+
+#EXTINF:0,orf2
+http://s2.stream-server.org:1935/live/orf2.stream/HasBahCa.m3u8
+
+#EXTINF:0,atv
+http://s4.stream-server.org:1935/live/atv.stream/HasBahCa.m3u8
+
+#EXTINF:-1,KIKA
+http://82.220.10.2/udp/239.3.0.17:1234
+
+#EXTINF:0,Nick
+http://s4.stream-server.org:1935/live/nickcc.stream/HasBahCa.m3u8
+
+#EXTINF:-1,Viva
+http://212.79.96.134:8007/
+
+#EXTINF:-1,n-tv
+http://82.220.10.2/udp/239.3.0.98:1234
+
+#EXTINF:0,N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+
+#EXTINF:0,phoenix
+http://s1.stream-server.org:1935/live/phoenix.stream/HasBahCa.m3u8
+
+#EXTINF:0,sf1
+http://s1.stream-server.org:1935/live/sf1.stream/HasBahCa.m3u8
+
+#EXTINF:0,sf2
+http://s2.stream-server.org:1935/live/sf2.stream/HasBahCa.m3u8
+
+#EXTINF:-1,DELUXE MUSIC
+http://flash3.ipercast.net/deluxemusic.tv-live/web_850.stream/playlist.m3u8
+
+#EXTINF:0,eurosport
+http://s4.stream-server.org:1935/live/eurosport.stream/HasBahCa.m3u8
+
+#EXTINF:0,swr
+http://s3.stream-server.org:1935/live/swr.stream/HasBahCa.m3u8
+
+#EXTINF:0,MDR
+http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
+
+#EXTINF:0,N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+
+#EXTINF:0,RBB
+http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/index_1728_av-p.m3u8
+
+#EXTINF:0,TV Aktuell
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/.m3u8 
+
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1,HR
+rtmp://cp121363.live.edgefcs.net/live/hr-fernsehen_768@53002
+
+
+#EXTINF:-1, OLD Links
+http://www.youtube.com/user/hmemar22
+
+
+
+#EXTINF:-1,1 Das Erste HD
+http://5.146.142.13:3000/C-41985-1051-11100
+#EXTINF:-1,2 ZDF HD
+http://5.146.142.13:3000/C-102-1079-11110
+#EXTINF:-1,3 arte HD
+http://5.146.142.13:3000/C-9999-171-17113
+#EXTINF:-1,4 Sat.1 HD
+http://5.146.142.13:3000/C-9999-321-32101
+#EXTINF:-1,5 ProSieben HD
+http://5.146.142.13:3000/C-9999-321-32102
+#EXTINF:-1,6 kabel eins HD
+http://5.146.142.13:3000/C-9999-321-32103
+#EXTINF:-1,7 Sport1 HD
+http://5.146.142.13:3000/C-9999-201-20118
+#EXTINF:-1,8 ServusTV HD
+http://5.146.142.13:3000/C-9999-291-29109
+#EXTINF:-1,9 Das Erste
+http://5.146.142.13:3000/C-41985-1101-28106
+#EXTINF:-1,10 ZDF
+http://5.146.142.13:3000/C-102-1079-28006
+#EXTINF:-1,11 RTL Television
+http://5.146.142.13:3000/C-9999-161-12101
+#EXTINF:-1,12 SAT.1
+http://5.146.142.13:3000/C-9999-161-12102
+#EXTINF:-1,13 ProSieben
+http://5.146.142.13:3000/C-9999-161-12103
+#EXTINF:-1,14 RTL2
+http://5.146.142.13:3000/C-9999-161-12105
+#EXTINF:-1,15 kabel eins
+http://5.146.142.13:3000/C-9999-161-12106
+#EXTINF:-1,16 VOX
+http://5.146.142.13:3000/C-9999-161-12104
+#EXTINF:-1,17 3sat
+http://5.146.142.13:3000/C-102-1079-28007
+#EXTINF:-1,18 arte
+http://5.146.142.13:3000/C-41985-1051-28724
+#EXTINF:-1,19 WDR K?ln
+http://5.146.142.13:3000/C-41985-1101-28111
+#EXTINF:-1,20 hr-fernsehen
+http://5.146.142.13:3000/C-41985-1101-28108
+#EXTINF:-1,21 NDR FS NDS
+http://5.146.142.13:3000/C-41985-1073-28226
+#EXTINF:-1,22 NDR FS HH
+http://5.146.142.13:3000/C-41985-1073-28225
+#EXTINF:-1,23 NDR FS SH
+http://5.146.142.13:3000/C-41985-1073-28227
+#EXTINF:-1,24 NDR FS MV
+http://5.146.142.13:3000/C-41985-1073-28224
+#EXTINF:-1,25 MDR Sachsen
+http://5.146.142.13:3000/C-41985-1073-28228
+#EXTINF:-1,26 MDR S-Anhalt
+http://5.146.142.13:3000/C-41985-1073-28229
+#EXTINF:-1,27 MDR Thüringen
+http://5.146.142.13:3000/C-41985-1073-28230
+#EXTINF:-1,28 SWR Fernsehen RP
+http://5.146.142.13:3000/C-41985-1073-28231
+#EXTINF:-1,29 SWR Fernsehen BW
+http://5.146.142.13:3000/C-41985-1101-28113
+#EXTINF:-1,30 Bayerisches FS Nord
+http://5.146.142.13:3000/C-41985-1101-28110
+#EXTINF:-1,31 Bayerisches FS Süd
+http://5.146.142.13:3000/C-41985-1101-28107
+#EXTINF:-1,32 rbb Berlin
+http://5.146.142.13:3000/C-41985-1073-28206
+#EXTINF:-1,33 rbb Brandenburg
+http://5.146.142.13:3000/C-41985-1073-28205
+#EXTINF:-1,34 Rhein-Main TV
+http://5.146.142.13:3000/C-9999-351-24111
+#EXTINF:-1,35 Offener Kanal
+http://5.146.142.13:3000/C-9999-351-24107
+#EXTINF:-1,36 QVC
+http://5.146.142.13:3000/C-9999-121-24103
+#EXTINF:-1,37 HSE24
+http://5.146.142.13:3000/C-9999-121-24104
+#EXTINF:-1,38 Channel21
+http://5.146.142.13:3000/C-9999-181-24105
+#EXTINF:-1,39 1-2-3.tv
+http://5.146.142.13:3000/C-9999-181-24106
+#EXTINF:-1,40 QVC Plus
+http://5.146.142.13:3000/C-9999-171-17117
+#EXTINF:-1,41 HSE24 EXTRA
+http://5.146.142.13:3000/C-9999-301-30112
+#EXTINF:-1,42 HSE24 TREND
+http://5.146.142.13:3000/C-9999-171-17116
+#EXTINF:-1,43 Juwelo
+http://5.146.142.13:3000/C-9999-171-20108
+#EXTINF:-1,44 sonnenklar.TV
+http://5.146.142.13:3000/C-9999-181-24112
+#EXTINF:-1,45 Astro TV
+http://5.146.142.13:3000/C-9999-271-29108
+#EXTINF:-1,46 Unitymedia Infokanal
+http://5.146.142.13:3000/C-9999-181-25101
+#EXTINF:-1,47 Unitymedia Schnupperkanal
+http://5.146.142.13:3000/C-9999-301-30113
+#EXTINF:-1,48 DMAX
+http://5.146.142.13:3000/C-9999-181-24108
+#EXTINF:-1,49 Servus TV
+http://5.146.142.13:3000/C-9999-171-17112
+#EXTINF:-1,50 EinsPlus
+http://5.146.142.13:3000/C-41985-1051-28723
+#EXTINF:-1,51 Ein***tra
+http://5.146.142.13:3000/C-41985-1051-28721
+#EXTINF:-1,52 zdf_neo
+http://5.146.142.13:3000/C-102-1079-28014
+#EXTINF:-1,53 ZDFinfo
+http://5.146.142.13:3000/C-102-1079-28011
+#EXTINF:-1,54 BR-alpha
+http://5.146.142.13:3000/C-41985-1051-28487
+#EXTINF:-1,55 Bibel TV
+http://5.146.142.13:3000/C-9999-151-15110
+#EXTINF:-1,56 DAYSTAR
+http://5.146.142.13:3000/C-9999-271-27104
+#EXTINF:-1,57 Viva
+http://5.146.142.13:3000/C-9999-181-24101
+#EXTINF:-1,58 RTL NITRO
+http://5.146.142.13:3000/C-9999-171-27102
+#EXTINF:-1,59 iM1
+http://5.146.142.13:3000/C-9999-171-20107
+#EXTINF:-1,60 Super RTL
+http://5.146.142.13:3000/C-9999-161-12107
+#EXTINF:-1,61 KiKA
+http://5.146.142.13:3000/C-102-1079-28008
+#EXTINF:-1,62 Nick/Comedy Central
+http://5.146.142.13:3000/C-9999-191-11104
+#EXTINF:-1,63 SIXX
+http://5.146.142.13:3000/C-9999-201-20116
+#EXTINF:-1,64 Einsfestival
+http://5.146.142.13:3000/C-41985-1051-28722
+#EXTINF:-1,65 zdf.kultur
+http://5.146.142.13:3000/C-102-1079-28016
+#EXTINF:-1,66 Tele 5
+http://5.146.142.13:3000/C-9999-191-12111
+#EXTINF:-1,67 DAS VIERTE
+http://5.146.142.13:3000/C-9999-191-11102
+#EXTINF:-1,68 SPORT1
+http://5.146.142.13:3000/C-9999-191-12108
+#EXTINF:-1,69 EUROSPORT
+http://5.146.142.13:3000/C-9999-191-11107
+#EXTINF:-1,70 n-tv
+http://5.146.142.13:3000/C-9999-161-12109
+#EXTINF:-1,71 N24
+http://5.146.142.13:3000/C-9999-161-12110
+#EXTINF:-1,72 PHOENIX
+http://5.146.142.13:3000/C-41985-1051-28725
+#EXTINF:-1,73 Bloomberg
+http://5.146.142.13:3000/C-9999-241-24110
+#EXTINF:-1,74 euronews (D)
+http://5.146.142.13:3000/C-9999-221-22119
+#EXTINF:-1,75 DAF - Anleger TV
+http://5.146.142.13:3000/C-9999-181-18116
+#EXTINF:-1,76 CNN
+http://5.146.142.13:3000/C-9999-181-24109
+#EXTINF:-1,77 BBC World News
+http://5.146.142.13:3000/C-9999-121-11105
+#EXTINF:-1,78 France 24 (in English)
+http://5.146.142.13:3000/C-9999-201-20111
+#EXTINF:-1,79 Al Jazeera International
+http://5.146.142.13:3000/C-9999-201-20112
+#EXTINF:-1,80 Sky News
+http://5.146.142.13:3000/C-9999-271-27103
+#EXTINF:-1,81 Russia Today
+http://5.146.142.13:3000/C-9999-201-20115
+#EXTINF:-1,82 CCTV News
+http://5.146.142.13:3000/C-9999-201-20119
+#EXTINF:-1,83 TV5MONDE Europe
+http://5.146.142.13:3000/C-9999-181-25102
+#EXTINF:-1,84 TRT Türk
+http://5.146.142.13:3000/C-9999-231-23112
+
+
+#EXTINF:-1, Viasat Naturale
+http://88.208.111.4:40027
+#EXTINF:-1, Spice
+http://88.208.111.4:40010
+#EXTINF:-1, Eurosport ger.
+http://88.208.111.4:40025
+
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png",ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
+http://zdf_hds_de-f.akamaihd.net/i/de14_v1@147090/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="tagesschau24.png",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="zdfneo.png",ZDF NEO
+http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="zdfinfo.png",ZDF INFO
+http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="ZDFtheater.de" tvg-logo="zdfkultur.png",ZDF KULTUR
+http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://zdf_hds_dach-f.akamaihd.net/i/dach10_v1@87031/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+rtmp://artestras.fc.llnwd.net/artestras/s_artestras_scst_geoFRDE_de?s=1320220800&h=878865258ebb8eaa437b99c3c7598998 live=1
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="n24.de" tvg-logo="n24.png",N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-logo="mdr.png",MDR
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="srfernsehen.png",SR
+http://livestream.sr-online.de/live.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="WDR.de" tvg-logo="wdr.png",WDR
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="br.png",BR
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="BRalpha.de" tvg-logo="br-alpha.png",BR-ALPHA
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="HR.de" tvg-logo="hr-fernsehen.png",HR-FERNSEHEN
+rtmp://cp121363.live.edgefcs.net/live/hr-fernsehen_1536@53002 live=1
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-logo="rbb.png",RBB
+http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
+https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="RiC.de" tvg-logo="ric.png",RIC
+http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
+rtmp://85.239.122.162/live playpath=mk3w-3faw-3rqf-enc0-kika swfUrl=http://kikaplus.net/clients/kika/player/public/player/KIKALivePlayer.swf pageUrl=http://kikaplus.net/clients/kika/player/tvplayer.php
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-logo="anixesd.png",ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-logo="deluxemusic.png",DELUXE MUSIC
+rtmp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV DE
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1 tvg-id="" tvg-logo="formel1.png",RTL FORMEL 1 (LIVE)
+rtmpe://cp119991.live.edgefcs.net/live/_definst_/de_hq@101874 swfUrl=http://bilder.static-fra.de/rtl09/flash/rtl_player.swf pageUrl=http://www.rtl.de/ swfVfy=true
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png",ARD
+http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
+http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="rtl.png",RTL
+http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
+http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="pro7.png",PRO 7
+http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Vox.de" tvg-logo="vox.png",VOX
+http://pebbles108-lh.akamaihd.net/i/vox_1@97466/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Kabel.de" tvg-logo="kabel1.png",KABEL 1
+http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
+http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Eurosport.de" tvg-logo="eurosport.png",EUROSPORT
+http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-logo="sport1.png",SPORT 1
+http://pebbles108-lh.akamaihd.net/i/sport1_1@97464/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
+http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="pro7maxx.png",PRO7 MAXX
+http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-logo="rtlnitro.png",RTL NITRO
+http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Sixx.de" tvg-logo="sixx.png",SIXX
+http://pebbles107-lh.akamaihd.net/i/sixx_1@97462/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
+http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
+http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="zdfneo.png",ZDF NEO
+http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="VivaGermany.de" tvg-logo="viva.png",VIVA
+http://pebbles105-lh.akamaihd.net/i/viva_1@97493/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="DMAX.ch" tvg-logo="dmax.png",DMAX
+http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+http://pebbles107-lh.akamaihd.net/i/artede_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="n-tv.png",NTV
+http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="n24.de" tvg-logo="n24.png",N24
+http://pebbles104-lh.akamaihd.net/i/n24_1@97406/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://pebbles112-lh.akamaihd.net/i/3sat_1@97480/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="phoenix.png",PHOENIX
+http://pebbles111-lh.akamaihd.net/i/phoenix_1@97476/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SWR.de" tvg-logo="swr.png",SWR
+http://pebbles113-lh.akamaihd.net/i/swr_1@97485/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="WDR.de" tvg-logo="wdr.png",WDR
+http://pebbles114-lh.akamaihd.net/i/wdr_1@97490/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="br.png",BR
+http://pebbles107-lh.akamaihd.net/i/br3_1@97517/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV
+http://pebbles114-lh.akamaihd.net/i/servus_1@97488/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ORF1.de" tvg-logo="orf1.png",ORF 1
+http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ORF2.de" tvg-logo="orf2.png",ORF 2
+http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
+http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",SRF 2
+http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="3plus.ch" tvg-logo="3+.png",3 PLUS
+http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="ATV.de" tvg-logo="atv.png",ATV
+http://pebbles114-lh.akamaihd.net/i/atv_1@97491/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 radio=true tvg-logo="posthardcoreru.png",POST HARDCORE
+http://109.234.157.154:8000/posthardcore
+#EXTINF:-1 radio=true tvg-logo="top100station.png",TOP 100 STATION
+#EXTINF:-1,Party TV Entertainment
+rtmp://149.11.34.6/live/partytv.stream
+#EXTINF:-1,Rock One
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,ROUGE TV France
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,RUS-Eurosport 2
+http://iptv.sat-elit.net/hls/539/index.m3u8
+#EXTINF:-1,RUS-Eurosport 2 rtmp
+rtmp://iptv.sat-elit.net/iptv/539
+#EXTINF:-1,RUS-Nash Futbol
+http://iptv.sat-elit.net/hls/531/index.m3u8
+#EXTINF:-1,RUS-Nash Futbol rtmp
+rtmp://iptv.sat-elit.net/iptv/531
+#EXTINF:-1,RUS-NTV Basketbol
+http://iptv.sat-elit.net/hls/529/index.m3u8
+#EXTINF:-1,RUS-NTV Basketbol rtmp
+rtmp://iptv.sat-elit.net/iptv/529
+#EXTINF:-1,RUS-NTV Futbol
+http://iptv.sat-elit.net/hls/124/index.m3u8
+#EXTINF:-1,RUS-NTV Futbol 2
+http://iptv.sat-elit.net/hls/530/index.m3u8
+#EXTINF:-1,RUS-NTV Futbol 2 rtmp
+rtmp://iptv.sat-elit.net/iptv/530
+#EXTINF:-1,RUS-NTV Futbol rtmp
+rtmp://iptv.sat-elit.net/iptv/124
+#EXTINF:-1,RUS-NTV Sport
+http://iptv.sat-elit.net/hls/123/index.m3u8
+#EXTINF:-1,RUS-NTV Sport rtmp
+rtmp://iptv.sat-elit.net/iptv/123
+#EXTINF:-1,RUS-NTV Tennis
+http://iptv.sat-elit.net/hls/528/index.m3u8
+#EXTINF:-1,RUS-NTV Tennis rtmp
+rtmp://iptv.sat-elit.net/iptv/528
+#EXTINF:-1,RUS-Outdoor Channel
+http://iptv.sat-elit.net/hls/119/index.m3u8
+#EXTINF:-1,RUS-Outdoor Channel rtmp
+rtmp://iptv.sat-elit.net/iptv/119
+#EXTINF:-1,RUS-Rus.Extrim
+http://iptv.sat-elit.net/hls/533/index.m3u8
+#EXTINF:-1,RUS-Rus.Extrim rtmp
+rtmp://iptv.sat-elit.net/iptv/533
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="italiano",RSI LA 1
+http://pebbles110-lh.akamaihd.net/i/rsila1_1@97472/master.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="italiano",RSI LA 2
+http://pebbles110-lh.akamaihd.net/i/rsila2_1@97473/master.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="italiano",RAI 1
+http://pebbles103-lh.akamaihd.net/i/rai1_1@97382/master.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1,at5
+http://82.94.228.213:1935/broadcast/_definst_/stream1/playlist.m3u8
+#EXTINF:-1,Omroep ZeelandTV
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
+#EXTINF:-1,La tele
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:-1,Leman Bleu - Suisse
+http://rtmp.infomaniak.ch/livecast/naxoo/hasbahca.m3u8
+#EXTINF:-1,M6 MUSIC BLACK
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8
+#EXTINF:-1,M6 MUSIC CLUB
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8
+#EXTINF:-1,M6TV
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1,ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+#EXTINF:-1,Rouge TV
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
+#EXTINF:-1,TELEBARN
+http://rtmp.infomaniak.ch/livecast/barntele/hasbahca.m3u8
+#EXTINF:-1,TeleBarn
+rtsp://rtmp.infomaniak.ch/livecast/barntele
+#EXTINF:-1,Telezuri
+rtmp://rtmp.infomaniak.ch:1935/livecast/_definst_/telezuri
+#EXTINF:0,Switzerland - Delta Sport TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/deltatv
+#EXTINF:-1,SPORT TV 1
+rtmp://94.102.49.192/liveedge//channel2
+#EXTINF:-1,GERMANY: Porshe Channel
+mms://83.222.161.217/channel_porsche
+#EXTINF:-1,GERMANY: wetter.info
+http://flash.load.t-online.de/mflash/logo_wetterstudio.flv
+#EXTINF:-1,GERMANY: noa4 Hamburg
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+#EXTINF:-1,GERMANY: K-TV
+rtmp://85.214.103.202:1935/ktv_hd/ktv2
+#EXTINF:-1,GERMANY: Harz TV
+rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:-1,GERMANY: Harz-Sued TV
+rtmp://62.113.210.250/medienasa-live/punktum_high
+#EXTINF:-1,GERMANY: FilstalWelle
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:-1,GERMANY: Dresden TV
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:-1,GERMANY: DAF TV
+rtmp://fms.daf.tmt.de:1935/live/dafstream100
+#EXTINF:-1,GERMANY: Baden TV
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+#EXTINF:0,Sky Sport 1 HD
+http://62.209.36.244:81/udp/239.100.7.1:1234
+#EXTINF:0,Sky Sport 1
+http://62.209.36.244:81/udp/239.100.4.2:1234
+#EXTINF:0,Sky Sport 2
+http://62.209.36.244:81/udp/239.100.4.3:1234
+#EXTINF:0,Sky Bundesliga 1 HD
+http://62.209.36.244:81/udp/239.100.4.4:1234
+#EXTINF:0,Sky Bundesliga 1
+http://62.209.36.244:81/udp/239.100.1.0:1234
+http://87.230.101.30:80
+
+#EXTINF:0,RTL 
+rtmp://178.218.162.146/918829941/rtl1.stream
+#EXTINF:0,RTV Osijek 
+mms://89.201.164.181/stv
+#EXTINF:0,RTL2
+http://sipragezabava.com/live/ptl2
+#EXTINF:0,Vinkovacka
+http://85.114.47.130:8081/3
+#EXTINF:0,24vesti 
+mmsh://62.162.58.55/24vesti
+
+#EXTINF:0,TV Halle De
+http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
+
+#EXTINF:0,Rfhv De
+rtmp://62.113.210.250/medienasa-live/RFH_high
+
+#EXTINF:0,Elbe Kanal De
+rtmp://62.113.210.250/medienasa-live/elbe_high
+
+#EXTINF:-1,Austria 24 De
+rtmp://streaming.austria24.tv/live/stream_360p
+
+#EXTINF:-1,Euronews De
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1,Juwelo De
+rtmp://85.214.72.27/juwelo_hd/live_DE1
+
+#EXTINF:-1,RAN 1 Dessau De
+rtmp://62.113.210.250/medienasa-live/ran1_high
+
+#EXTINF:-1,TV Aktuell De
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
+
+#EXTINF:-1,TV Oberfranken De
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+
+#EXTINF:-1,TV Touring Schweinfurt De
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
+
+#EXTINF:-0,TV Touring Würzburg De
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+
+#EXTINF:-1,Tva De
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+
+#EXTINF:-1,Ok Stendal  De
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1,Ran 1 De
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+
+#EXTINF:-1,Rwb De
+rtmp://62.113.210.250/medienasa-live/rbw_high
+
+#EXTINF:-1,Rogue tv Ch
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+
+#EXTINF:-1,Tele x Ch
+http://rtmp.infomaniak.ch/livecast/latele/hasbahca.m3u8
+
+#EXTINF:-1,Leman Bleu Suisse
+http://rtmp.infomaniak.ch/livecast/naxoo/hasbahca.m3u8
+
+
+#EXTINF:-1,Tvm3 Suisse
+http://rtmp.infomaniak.ch/livecast/tvm3/hasbahca.m3u8
+
+#EXTINF:-1,Telezuri Suisse
+http://rtmp.infomaniak.ch/livecast/telebielinguech/hasbahca.m3u8
+
+#EXTINF:-1,La Tele Ch
+http://rtmp.infomaniak.ch/livecast/latele/hasbahca.m3u8
+
+
+#EXTINF:-1,Das Erste (Germany)
+
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+#EXTINF:-1,Pro 7 (Germany)
+
+http://artm:artm@84.22.33.22:8000
+
+#EXTINF:-1,WDR (Germany)
+
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8

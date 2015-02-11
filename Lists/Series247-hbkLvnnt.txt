@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 03/01/2015 @ 21:53 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1 , [COLOR green] --Series 24/7 --[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+
+
+#EXTINF:-1, 2 broke girls
+rtmp://198.27.75.99/ch02 playpath=2bg01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?2bg01 
+
+#EXTINF:-1, 2 and a Half Men
+rtmp://192.99.38.122/ch01 playpath=men02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus
+
+#EXTINF:-1, All in the Family
+rtmp://198.27.75.99/ch02 playpath=aitf swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?aitf 
+
+#EXTINF:-1, American Dad
+rtmp://192.99.38.122/ch01 playpath=americandad02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?americandad01 
+
+#EXTINF:-1, Breaking bad
+rtmp://192.99.38.122/ch01 playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02 
+
+#EXTINF:-1, Big Bang theory
+rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_highspothorror101 swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv 
+
+#EXTINF:-1, Friends
+rtmp://192.99.38.122/ch01 playpath=friends02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?friends01

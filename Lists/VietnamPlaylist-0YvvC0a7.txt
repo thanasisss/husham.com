@@ -1,0 +1,63 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 10/02/2015 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+ 
+#EXTINF:-1, [COLOR green] --Vietnam IPTV only--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+
+#EXTINF:0, thbp2
+rtmp://113.161.180.136/live//thbp2.tv
+#EXTINF:0,BinhThuanTV mms
+mms://123.30.108.114/BTVTruyenhinh
+#EXTINF:0,ITV
+rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
+#EXTINF:0,VietNews
+rtmp://69.178.181.93:1935/VietNews/myStream
+#EXTINF:0,VOV TV
+rtmp://210.245.60.242/vovtv/vovtv
+#EXTINF:0,VTV C
+rtmp://113.161.204.167:1935/livepkgr/livestream
+#EXTINF:0,VTV C
+rtmp://113.161.204.168/livepkgr/livestream1
+#EXTINF:0,VTV
+rtmp://222.255.167.149/live/livestream
+#EXTINF:0,VTV Phu Yen
+rtmp://113.161.4.102/live/vtvphuyen.tv
+#EXTINF:0,VTV2
+rtmp://119.18.186.116/live/vtv2
+#EXTINF:0,VTVCab 01
+rtmp://123.29.69.69/live//VTVCab1_600k
+#EXTINF:0,VTVCab 02
+rtmp://123.29.69.69/live//VTVCab2_600k
+#EXTINF:0,VTVCab 03
+rtmp://123.29.69.69/live//VTVCab3_600k
+#EXTINF:0,VTVCab 04
+rtmp://123.29.69.69/live//VTVCab4_600k
+#EXTINF:0,VTVCab 05
+rtmp://123.29.69.69/live//VTVCab5_600k
+#EXTINF:0,VTVCab 06
+rtmp://123.29.69.69/live//VTVCab6_600k
+#EXTINF:0,VTVCab 07
+rtmp://123.29.69.69/live//VTVCab7_600k
+#EXTINF:0,VTVCab 08
+rtmp://123.29.69.69/live//VTVCab8_600k
+#EXTINF:0,VTVCab 12
+rtmp://123.29.69.69/live//VTVCab12_600k
+#EXTINF:0,VTVCab 16
+rtmp://123.29.69.69/live//VTVCab16_600k
+#EXTINF:0,VTVCab 17
+rtmp://123.29.69.69/live//VTVCab17_600k
+#EXTINF:0,zzz VTVCab 09
+rtmp://123.29.69.69/live//VTVCab9_600k
+#EXTINF:0,zzz VTVCab 10
+rtmp://123.29.69.69/live//VTVCab10_600k
+#EXTINF:0,zzz VTVCab 11
+rtmp://123.29.69.69/live//VTVCab11_600k
+#EXTINF:0,zzz VTVCab 13
+rtmp://123.29.69.69/live//VTVCab13_600k
+#EXTINF:0,zzz VTVCab 14
+rtmp://123.29.69.69/live//VTVCab14_600k
+#EXTINF:0,zzz VTVCab 15
+rtmp://123.29.69.69/live//VTVCab15_600k

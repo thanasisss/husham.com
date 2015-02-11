@@ -1,9 +1,10 @@
 [
-{"url": "http://hushamsport", "name": "[COLOR yellow]Husham Wins[/COLOR]"},
-{"url": "http://hushamsport", "name": "Husham Sport[COLOR antiquewhite][COLOR antiquewhite](UPDATED 09/02/15) [/COLOR]"},
-{"url": "http://hushamsport", "name": "[COLOR yellow]------------Husham --------------------------[/COLOR]"},
-{"url": "http://hushamsport", "name": "[COLOR yellow]Husham Wins[/COLOR]"},
-{"url": "http://hushamsport", "name": "[COLOR yellow]Join the fastest growing community for XBMC/KODI[/COLOR]"},
-{"url": "http://hushamsport", "name": "[COLOR yellow]Contact us on Facebook[/COLOR]"},
-{"url": "http://hushamsport", "name": "[COLOR yellow]-----------------------------------------------------[/COLOR]"}
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Husham Wins[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "Husham Sport[COLOR antiquewhite][COLOR antiquewhite](UPDATED 09/02/15) [/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS [COLOR antiquewhite](UPDATED 29/01/15)[/COLOR]"}, 
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]------------Husham --------------------------[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Husham Wins[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Join the fastest growing community for XBMC/KODI[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Contact us on Facebook[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]-----------------------------------------------------[/COLOR]"}
 ]

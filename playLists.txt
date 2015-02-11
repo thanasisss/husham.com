@@ -1,0 +1,9 @@
+[
+{"url": "http://hushamsport", "name": "[COLOR yellow]Husham Wins[/COLOR]"},
+{"url": "http://hushamsport", "name": "Husham Sport[COLOR antiquewhite][COLOR antiquewhite](UPDATED 09/02/15) [/COLOR]"},
+{"url": "http://hushamsport", "name": "[COLOR yellow]------------Husham --------------------------[/COLOR]"},
+{"url": "http://hushamsport", "name": "[COLOR yellow]Husham Wins[/COLOR]"},
+{"url": "http://hushamsport", "name": "[COLOR yellow]Join the fastest growing community for XBMC/KODI[/COLOR]"},
+{"url": "http://hushamsport", "name": "[COLOR yellow]Contact us on Facebook[/COLOR]"},
+{"url": "http://hushamsport", "name": "[COLOR yellow]-----------------------------------------------------[/COLOR]"}
+]

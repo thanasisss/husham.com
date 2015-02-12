@@ -3,10 +3,16 @@
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Visit us on our Facebook page[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]IPTV M3U Lists and Sharing[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]https://www.facebook.com/groups/Iptv.m3u.Sharing[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=exUzLZzx", "name": "Adam Milburn List [/COLOR]"},
+{"url": "http://xmltvguide.info/epg/iptv.m3u", "name": "Teddy Lombardi List [/COLOR]"},
+{"url": "http://bit.ly/moneysports84", "name": " Mark Money's List [/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=0JzxyYW0", "name": "Husham UK List [/COLOR]"},
+{"url": "http://bit.ly/listtnssports", "name": "Thanasis Athanasopoulos [/COLOR]"},
 {"url": "http://xmltvguide.info/epg/iptv.m3u", "name": "Adam Mcdonald List [/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=7T2qCAm8", "name": "Janeth Melendez Cañas List [/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "Husham Sport [/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS [/COLOR]"}, 
+{"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS [/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham ArabicList [/COLOR]"}, 
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]------------ The Robin Hood List -------------------------[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]We Share and Learn[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Join the fastest growing community for IPTV List/COLOR]"},
@@ -14,5 +20,3 @@
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Visit us on our facebook page[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]----------------------------------------------------------[/COLOR]"}
 ]
-
-

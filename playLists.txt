@@ -3,7 +3,7 @@
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Visit us on our Facebook page[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]IPTV M3U Lists and Sharing[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]https://www.facebook.com/groups/Iptv.m3u.Sharing[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=exUzLZzx", "name": "Adam Milburn List  "},
+{"url": "http://pastebin.com/raw.php?i=exUzLZzx", "name": "Kybo 1.0 List  "},
 {"url": "http://bit.ly/moneysports84", "name": " Mark Money's List  "},
 {"url": "http://bit.ly/listtnssports", "name": "Thanasis Athanasopoulos  "},
 {"url": "http://pastebin.com/raw.php?i=0JzxyYW0", "name": "Husham UK List  "},

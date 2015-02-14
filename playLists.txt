@@ -5,7 +5,7 @@
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]https://www.facebook.com/groups/Iptv.m3u.Sharing[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=exUzLZzx", "name": "Kybo 1.0 List  "},
 {"url": "http://bit.ly/moneysports84", "name": " Money Sports List "},
-{"url": "http://bit.ly/listtnssports", "name": "Thanasis Athanasopoulos  "},
+{"url": "http://http://bit.ly/listchannelstns", "name": "Thanasis  "},
 {"url": "http://pastebin.com/raw.php?i=D3D7rJGt", "name": "Teddy Bad Boy List"},
 {"url": "http://xmltvguide.info/epg/iptv.m3u", "name": "Adam Mcdonald List  "},
 {"url": "http://pastebin.com/raw.php?i=7T2qCAm8", "name": "Janeth Melendez Cañas List  "},
